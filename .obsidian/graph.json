@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Brain/수학  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Brain/일기  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Brain/프로그래밍  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0.8,
+  "nodeSizeMultiplier": 1.26418863932292,
+  "lineSizeMultiplier": 3.61669108072917,
+  "collapse-forces": false,
+  "centerStrength": 0.303304036458333,
+  "repelStrength": 12.7376302083333,
+  "linkStrength": 1,
+  "linkDistance": 179,
+  "scale": 1.394366067891284,
+  "close": false
+}

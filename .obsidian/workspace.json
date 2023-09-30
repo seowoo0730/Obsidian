@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "95804db43c6026e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b82dbf9f006b10f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13e2c0b65afeb706",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "647c0c98dfd162b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brain/옵시디언.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cdf6a94d323d393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brain/일기/2023-09-20.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ce9f322e719939d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6264c39382e52737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40d8773fe00931f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2deceec3c9f9540",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9874c11053f35ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "f18bf3015157212c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f29de9597fa5237b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d89eabcb7320f653",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ba65840e51d270d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "213840862e737f6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a5e894cae2906e98",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8455a30b9c70eff6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4e6fb459104eaed",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "72dd976454f33a2e",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "ba65840e51d270d4",
+  "lastOpenFiles": [
+    "Brain/일기/2023-09-20.md",
+    "Brain/마크다운.md",
+    "Brain/해킹/리눅스/칼리 리눅스/칼리 리눅스.md",
+    "Brain/해킹/리눅스/CRUD.md",
+    "Brain/해킹/리눅스/폴더, 파일 이동, 목록(pwd, cd, ls 등).md",
+    "Brain/해킹/리눅스/반딧/반딧.md",
+    "Brain/링크 테스트.md",
+    "Brain/옵시디언.md",
+    "Untitled.canvas",
+    "Brain/네트워크",
+    "Brain/프로그래밍",
+    "2023-09-20.md",
+    "리눅스.md",
+    "Brain/해킹/리눅스/리눅스.md",
+    "Brain/수학/성대경시 로드맵.md",
+    "Brain/Untitled.canvas",
+    "Brain/즐겨찾기",
+    "Brain/해킹/리눅스/반딧",
+    "Brain/수학/수학.md",
+    "Brain/일기/일기.md",
+    "Brain/해킹/리눅스/칼리 리눅스",
+    "Brain/수학",
+    "Brain/일기",
+    "Brain/해킹",
+    "Brain/해킹/리눅스",
+    "Brain/Math",
+    "Users/seowoo0730/Downloads/icons/tabler-icons/Notebook.svg"
+  ]
+}

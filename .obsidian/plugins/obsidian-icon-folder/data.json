@@ -1,0 +1,33 @@
+{
+  "settings": {
+    "migrated": 2,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 20,
+    "emojiStyle": "none",
+    "iconColor": "#9696ff",
+    "recentlyUsedIcons": [
+      "LiNetwork",
+      "TiCode",
+      "IbFolder",
+      "TiTool",
+      "FabDragon"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true
+  },
+  "Brain/링크 테스트.md": "RiLink",
+  "Brain/마크다운.md": "TiMarkdown",
+  "Brain/옵시디언.md": "TiNotebook",
+  "Brain/수학": "TiMath",
+  "Brain/수학/성대경시 로드맵.md": "RiTrophyLine",
+  "Brain": "TiBrain",
+  "Brain/일기": "IbCalendar",
+  "Brain/프로그래밍": "TiCode"
+}

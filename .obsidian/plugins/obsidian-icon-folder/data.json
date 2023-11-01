@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
-      "LiNetwork",
-      "TiCode",
-      "IbFolder",
-      "TiTool",
-      "FabDragon"
+      "SiGithub",
+      "FabDiagramProject",
+      "IbGraphLineUp",
+      "IbUser",
+      "LiNetwork"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,12 +22,21 @@
     },
     "iconInTabsEnabled": true
   },
-  "Brain/링크 테스트.md": "RiLink",
-  "Brain/마크다운.md": "TiMarkdown",
-  "Brain/옵시디언.md": "TiNotebook",
-  "Brain/수학": "TiMath",
-  "Brain/수학/성대경시 로드맵.md": "RiTrophyLine",
-  "Brain": "TiBrain",
-  "Brain/일기": "IbCalendar",
-  "Brain/프로그래밍": "TiCode"
+  "수학": "TiMath",
+  "수학/성대경시 로드맵.md": "RiTrophyLine",
+  "일기": "IbCalendar",
+  "프로그래밍": "TiCode",
+  "링크 테스트.md": "RiLink",
+  "마크다운.md": "TiMarkdown",
+  "옵시디언.md": "TiNotebook",
+  "Users": "IbUser",
+  "프로젝트/자동매매.md": "IbGraphLineUp",
+  "프로젝트": {
+    "iconName": "SiGithub",
+    "inheritanceIcon": "IbGithub"
+  },
+  "프로젝트/THE BOOK.md": {
+    "iconName": null,
+    "inheritanceIcon": "FasBookAtlas"
+  }
 }

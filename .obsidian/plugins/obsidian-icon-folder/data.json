@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
+      "FarBook",
+      "SiBinance",
       "SiGithub",
       "FabDiagramProject",
-      "IbGraphLineUp",
-      "IbUser",
-      "LiNetwork"
+      "IbGraphLineUp"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -36,7 +36,8 @@
     "inheritanceIcon": "IbGithub"
   },
   "프로젝트/THE BOOK.md": {
-    "iconName": null,
+    "iconName": "FarBook",
     "inheritanceIcon": "FasBookAtlas"
-  }
+  },
+  "Binance API.md": "SiBinance"
 }

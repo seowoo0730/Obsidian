@@ -6,6 +6,7 @@
       {
         "id": "3b82dbf9f006b10f",
         "type": "tabs",
+        "dimension": 67.28045325779037,
         "children": [
           {
             "id": "13e2c0b65afeb706",
@@ -57,14 +58,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Binance API.md",
+                "file": "자동매매/Binance API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5286b7206dc880d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "freqtrade.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "34dded166fe81cb3",
+        "type": "tabs",
+        "dimension": 32.71954674220963,
+        "children": [
+          {
+            "id": "6cbd7fe5980127d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "옵시디언.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f558ef0e960be4a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "마크다운.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binance API.md",
+                "file": "freqtrade.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binance API.md",
+                "file": "freqtrade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Binance API.md"
+                "file": "freqtrade.md"
               }
             }
           },
@@ -216,15 +261,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5dbd797edb267d2c",
+  "active": "e5286b7206dc880d",
   "lastOpenFiles": [
+    "마크다운.md",
+    "freqtrade.md",
+    "옵시디언.md",
+    "자동매매/Binance API.md",
+    "자동매매/freqtrade.md",
+    "자동매매",
     "프로젝트/THE BOOK.md",
-    "Binance API.md",
     "Binance API",
     "프로젝트/자동매매.md",
-    "마크다운.md",
     "Untitled 1.md",
-    "옵시디언.md",
     "일기/2023-09-20.md",
     "링크 테스트.md",
     "프로젝트",
@@ -247,7 +295,6 @@
     "Brain/일기/일기.md",
     "Brain/해킹/리눅스/칼리 리눅스",
     "수학",
-    "일기",
     "Users/seowoo0730/Downloads/icons/tabler-icons/Notebook.svg"
   ]
 }

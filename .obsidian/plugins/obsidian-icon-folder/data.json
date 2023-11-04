@@ -39,5 +39,6 @@
     "iconName": "FarBook",
     "inheritanceIcon": "FasBookAtlas"
   },
-  "Binance API.md": "SiBinance"
+  "자동매매": "IbGraphLineUp",
+  "자동매매/Binance API.md": "SiBinance"
 }

@@ -18,7 +18,16 @@ docker compose run --rm freqtrade create-userdir --userdir user_data
 # Create configuration - Requires answering interactive questions
 docker compose run --rm freqtrade new-config --config user_data/config.json
 ```
+### docker로 freqtrade 업데이트
+``` zsh
+# Download the latest image
+docker compose pull
 
+# Restart the image
+docker compose up -d
+```
+>[!warning]
+>변경 사항/수동 개입이 필요한지 항상 변경 로그를 확인하고 업데이트 후 봇이 올바르게 시작되는지 확인해야 한다.
 ### Adding a custom strategy
 `user_data/strategies/`에서 전략 복사
 `docker-compose.yml`파일에 전략 클래스 이름 추가

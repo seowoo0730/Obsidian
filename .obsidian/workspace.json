@@ -108,8 +108,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,9 +262,9 @@
   },
   "active": "e5286b7206dc880d",
   "lastOpenFiles": [
-    "마크다운.md",
-    "freqtrade.md",
     "옵시디언.md",
+    "freqtrade.md",
+    "마크다운.md",
     "자동매매/Binance API.md",
     "자동매매/freqtrade.md",
     "자동매매",

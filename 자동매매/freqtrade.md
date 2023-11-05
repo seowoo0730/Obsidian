@@ -24,7 +24,7 @@ docker compose run --rm freqtrade new-config --config user_data/config.json
 docker compose pull
 
 # Restart the image
-docker compose up -d
+docker compose up -d # -d 백그라운드 에서 실행
 ```
 >[!warning]
 >변경 사항/수동 개입이 필요한지 항상 변경 로그를 확인하고 업데이트 후 봇이 올바르게 시작되는지 확인해야 한다.
@@ -34,7 +34,7 @@ docker compose up -d
 
 ### 봇 시작
 ```zsh
-docker compose up -d
+docker compose up -d # -d 백그라운드 에서 실행
 ```
 거래 모드를 시작한다. docker 답변에 따라 테스트 실행 또는 실시간 거래
 >[!Warning]
@@ -52,3 +52,6 @@ docker compose ps
 ### freqUI
 `http://0.0.0.0:8080/`로 접속하기
 ### freqtrade 실행
+``` zsh
+docker compose run --rm freqtrade <command> <optional arguments> # --rm 포함하면 완료 후 컨테이너가 제거되며 거래 모드(freqtrade trade명령으로 실행)를 제외한 모든 모드에 적극 권장된다.
+```

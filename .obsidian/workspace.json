@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "freqtrade.md",
+                "file": "프로젝트/자동매매.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "freqtrade.md",
+                "file": "프로젝트/자동매매.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "freqtrade.md",
+                "file": "프로젝트/자동매매.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "freqtrade.md"
+                "file": "프로젝트/자동매매.md"
               }
             }
           },
@@ -262,8 +262,8 @@
   },
   "active": "e5286b7206dc880d",
   "lastOpenFiles": [
-    "옵시디언.md",
     "freqtrade.md",
+    "옵시디언.md",
     "마크다운.md",
     "자동매매/Binance API.md",
     "자동매매/freqtrade.md",

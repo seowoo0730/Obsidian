@@ -55,3 +55,14 @@ docker compose ps
 ``` zsh
 docker compose run --rm freqtrade <command> <optional arguments> # --rm 포함하면 완료 후 컨테이너가 제거되며 거래 모드(freqtrade trade명령으로 실행)를 제외한 모든 모드에 적극 권장된다.
 ```
+### docker추가 종속성
+전략에 기본 이미지(docker)에 포함되지 않은 종속성이 필요한 경우 호스트에 이미지를 빌드해야 한다
+`docker-compose.yml` 에서 build 주석 제거 및 이름 바꾸기
+``` zsh
+image: freqtrade_custom
+build:
+	context: .
+	dockerfile: "./Dockerfile.<yourextension>"
+
+```
+`docker compose build --pull` 실행

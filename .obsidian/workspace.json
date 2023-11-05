@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자동매매/freqtrade.md",
+                "file": "프로젝트/자동매매.md",
                 "mode": "source",
                 "source": false
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자동매매/freqtrade.md",
+                "file": "프로젝트/자동매매.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자동매매/freqtrade.md",
+                "file": "프로젝트/자동매매.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자동매매/freqtrade.md"
+                "file": "프로젝트/자동매매.md"
               }
             }
           },
@@ -265,8 +265,8 @@
   },
   "active": "13e2c0b65afeb706",
   "lastOpenFiles": [
-    "프로젝트/자동매매.md",
     "자동매매/freqtrade.md",
+    "프로젝트/자동매매.md",
     "프로젝트/THE BOOK.md",
     "링크 테스트.md",
     "마크다운.md",

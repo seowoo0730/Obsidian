@@ -51,3 +51,4 @@ docker compose ps
 `user_data/tradesv3.sqlite`
 ### freqUI
 `http://0.0.0.0:8080/`로 접속하기
+### freqtrade 실행

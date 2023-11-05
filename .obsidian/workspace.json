@@ -12,8 +12,12 @@
             "id": "13e2c0b65afeb706",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "자동매매/freqtrade.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -34,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마크다운.md",
+                "file": "링크 테스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,14 +74,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/자동매매.md",
+                "file": "프로젝트/THE BOOK.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "34dded166fe81cb3",
@@ -174,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/자동매매.md",
+                "file": "자동매매/freqtrade.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -191,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/자동매매.md",
+                "file": "자동매매/freqtrade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/자동매매.md"
+                "file": "자동매매/freqtrade.md"
               }
             }
           },
@@ -243,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -260,20 +263,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5286b7206dc880d",
+  "active": "13e2c0b65afeb706",
   "lastOpenFiles": [
-    "freqtrade.md",
-    "옵시디언.md",
-    "마크다운.md",
-    "자동매매/Binance API.md",
-    "자동매매/freqtrade.md",
-    "자동매매",
-    "프로젝트/THE BOOK.md",
-    "Binance API",
     "프로젝트/자동매매.md",
+    "자동매매/freqtrade.md",
+    "프로젝트/THE BOOK.md",
+    "링크 테스트.md",
+    "마크다운.md",
+    "옵시디언.md",
+    "자동매매/Binance API.md",
+    "자동매매",
+    "Binance API",
     "Untitled 1.md",
     "일기/2023-09-20.md",
-    "링크 테스트.md",
     "프로젝트",
     "Brain/프로젝트",
     "수학/성대경시 로드맵.md",

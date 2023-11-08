@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
+      "LiPencil",
+      "FabPen",
       "FarBook",
       "SiBinance",
-      "SiGithub",
-      "FabDiagramProject",
-      "IbGraphLineUp"
+      "SiGithub"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
     "inheritanceIcon": "FasBookAtlas"
   },
   "자동매매": "IbGraphLineUp",
-  "자동매매/Binance API.md": "SiBinance"
+  "자동매매/Binance API.md": "SiBinance",
+  "배우기.md": "LiPencil"
 }

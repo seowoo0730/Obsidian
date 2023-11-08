@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "d10f02e35862c6a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "배우기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "647c0c98dfd162b0",
             "type": "leaf",
             "state": {
@@ -80,7 +92,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "34dded166fe81cb3",
@@ -177,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/자동매매.md",
+                "file": "배우기.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -194,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/자동매매.md",
+                "file": "배우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/자동매매.md"
+                "file": "배우기.md"
               }
             }
           },
@@ -263,10 +276,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13e2c0b65afeb706",
+  "active": "d10f02e35862c6a4",
   "lastOpenFiles": [
-    "자동매매/freqtrade.md",
     "프로젝트/자동매매.md",
+    "배우기.md",
+    "자동매매/freqtrade.md",
     "프로젝트/THE BOOK.md",
     "링크 테스트.md",
     "마크다운.md",

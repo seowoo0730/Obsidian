@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "배우기.md",
+                "file": "프로젝트/자동매매.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "배우기.md",
+                "file": "프로젝트/자동매매.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "배우기.md"
+                "file": "프로젝트/자동매매.md"
               }
             }
           },
@@ -257,9 +257,17 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "3c308a6229f608a1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -276,7 +284,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d10f02e35862c6a4",
+  "active": "3c308a6229f608a1",
   "lastOpenFiles": [
     "프로젝트/자동매매.md",
     "배우기.md",

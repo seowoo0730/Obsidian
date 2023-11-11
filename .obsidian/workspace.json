@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "프로젝트/THE BOOK.md",
+                "file": "배우기.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/THE BOOK.md",
+                "file": "배우기.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/THE BOOK.md",
+                "file": "배우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/THE BOOK.md"
+                "file": "배우기.md"
               }
             }
           },
@@ -286,10 +286,11 @@
   },
   "active": "d10f02e35862c6a4",
   "lastOpenFiles": [
+    "프로젝트/THE BOOK.md",
     "프로젝트/자동매매.md",
+    "일기/2023-09-20.md",
     "배우기.md",
     "자동매매/freqtrade.md",
-    "프로젝트/THE BOOK.md",
     "링크 테스트.md",
     "마크다운.md",
     "옵시디언.md",
@@ -297,7 +298,6 @@
     "자동매매",
     "Binance API",
     "Untitled 1.md",
-    "일기/2023-09-20.md",
     "프로젝트",
     "Brain/프로젝트",
     "수학/성대경시 로드맵.md",

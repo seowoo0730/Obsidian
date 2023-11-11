@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
+      "LiBook",
       "LiPencil",
       "FabPen",
       "FarBook",
-      "SiBinance",
-      "SiGithub"
+      "SiBinance"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -23,7 +23,6 @@
     "iconInTabsEnabled": true
   },
   "수학": "TiMath",
-  "수학/성대경시 로드맵.md": "RiTrophyLine",
   "일기": "IbCalendar",
   "프로그래밍": "TiCode",
   "링크 테스트.md": "RiLink",
@@ -36,7 +35,7 @@
     "inheritanceIcon": "IbGithub"
   },
   "프로젝트/THE BOOK.md": {
-    "iconName": "FarBook",
+    "iconName": "LiBook",
     "inheritanceIcon": "FasBookAtlas"
   },
   "자동매매": "IbGraphLineUp",

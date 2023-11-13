@@ -33,6 +33,18 @@
             }
           },
           {
+            "id": "15ba7a6896000059",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lg Ai Youth Camp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "647c0c98dfd162b0",
             "type": "leaf",
             "state": {
@@ -93,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "34dded166fe81cb3",
@@ -106,7 +118,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언.md",
+                "file": "마크다운.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "프로젝트/자동매매.md",
+                "file": "Lg Ai Youth Camp.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "프로젝트/자동매매.md",
+                "file": "Lg Ai Youth Camp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "프로젝트/자동매매.md"
+                "file": "Lg Ai Youth Camp.md"
               }
             }
           },
@@ -284,16 +296,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d10f02e35862c6a4",
+  "active": "15ba7a6896000059",
   "lastOpenFiles": [
-    "프로젝트/THE BOOK.md",
+    "마크다운.md",
+    "옵시디언.md",
+    "Lg Ai Youth Camp.md",
     "프로젝트/자동매매.md",
+    "프로젝트/THE BOOK.md",
     "배우기.md",
     "일기/2023-09-20.md",
     "자동매매/freqtrade.md",
     "링크 테스트.md",
-    "마크다운.md",
-    "옵시디언.md",
     "자동매매/Binance API.md",
     "자동매매",
     "Binance API",

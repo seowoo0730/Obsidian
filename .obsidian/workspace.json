@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lg Ai Youth Camp.md",
+                "file": "링크 테스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lg Ai Youth Camp.md",
+                "file": "링크 테스트.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lg Ai Youth Camp.md",
+                "file": "링크 테스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lg Ai Youth Camp.md"
+                "file": "링크 테스트.md"
               }
             }
           },
@@ -279,7 +279,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -298,9 +298,9 @@
   },
   "active": "15ba7a6896000059",
   "lastOpenFiles": [
+    "Lg Ai Youth Camp.md",
     "마크다운.md",
     "옵시디언.md",
-    "Lg Ai Youth Camp.md",
     "프로젝트/자동매매.md",
     "프로젝트/THE BOOK.md",
     "배우기.md",

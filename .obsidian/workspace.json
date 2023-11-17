@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "링크 테스트.md",
+                "file": "배우기.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "링크 테스트.md",
+                "file": "배우기.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "링크 테스트.md",
+                "file": "배우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "링크 테스트.md"
+                "file": "배우기.md"
               }
             }
           },
@@ -298,6 +298,7 @@
   },
   "active": "15ba7a6896000059",
   "lastOpenFiles": [
+    "링크 테스트.md",
     "Lg Ai Youth Camp.md",
     "마크다운.md",
     "옵시디언.md",
@@ -306,7 +307,6 @@
     "배우기.md",
     "일기/2023-09-20.md",
     "자동매매/freqtrade.md",
-    "링크 테스트.md",
     "자동매매/Binance API.md",
     "자동매매",
     "Binance API",

@@ -45,6 +45,18 @@
             }
           },
           {
+            "id": "786eabb31ce9a3dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "배우기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "647c0c98dfd162b0",
             "type": "leaf",
             "state": {
@@ -105,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "34dded166fe81cb3",
@@ -202,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lg Ai Youth Camp.md",
+                "file": "배우기.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lg Ai Youth Camp.md",
+                "file": "배우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lg Ai Youth Camp.md"
+                "file": "배우기.md"
               }
             }
           },
@@ -296,12 +308,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15ba7a6896000059",
+  "active": "786eabb31ce9a3dc",
   "lastOpenFiles": [
-    "프로젝트/THE BOOK.md",
+    "Hacking.md",
     "배우기.md",
-    "링크 테스트.md",
     "Lg Ai Youth Camp.md",
+    "프로젝트/THE BOOK.md",
+    "링크 테스트.md",
     "마크다운.md",
     "옵시디언.md",
     "프로젝트/자동매매.md",

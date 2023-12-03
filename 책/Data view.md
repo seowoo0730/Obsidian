@@ -1,0 +1,10 @@
+---
+상태: NONE
+---
+```dataview
+TABLE
+	작가 As "작가",
+	("![](" +커버+ ")") As "커버"
+FROM "책"
+WHERE 상태 !="NONE"
+```

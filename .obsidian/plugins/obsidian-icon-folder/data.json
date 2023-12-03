@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 2,
+    "migrated": 3,
     "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
     "fontSize": 20,
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
+      "TiBooks",
       "RiComputerLine",
       "LiBook",
       "LiPencil",
-      "FabPen",
-      "FarBook"
+      "FabPen"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,7 +20,11 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": true
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
   },
   "수학": "TiMath",
   "일기": "IbCalendar",
@@ -40,5 +44,6 @@
   },
   "자동매매": "IbGraphLineUp",
   "자동매매/Binance API.md": "SiBinance",
-  "배우기.md": "LiPencil"
+  "배우기.md": "LiPencil",
+  "책": "TiBooks"
 }

@@ -24,6 +24,3 @@ THE BOOK 프로젝트는 *Proofs from THE BOOK* 책에서 영감을 받아 만�
 
 #### 기타
 - [깃허브](https://github.com) 에 문서를 공유해 모두가 읽을 수 있게한다.
-
-
-

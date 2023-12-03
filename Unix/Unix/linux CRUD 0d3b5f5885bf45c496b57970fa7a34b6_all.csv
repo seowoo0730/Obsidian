@@ -1,0 +1,6 @@
+﻿.,File,Directory
+Creat,editor,mkdir
+Read,"editor, cat, ls",ls
+Update,"editor, mv",mv
+Delet,rm,rm
+,,

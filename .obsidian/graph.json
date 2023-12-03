@@ -8,37 +8,72 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Brain/수학  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Brain/일기  ",
+      "query": "path:Unix  ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:Brain/프로그래밍  ",
+      "query": "tag:#math  ",
       "color": {
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#자동매매  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "path:책  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0.8,
   "nodeSizeMultiplier": 1.26418863932292,
   "lineSizeMultiplier": 3.61669108072917,
   "collapse-forces": false,
-  "centerStrength": 0.303304036458333,
-  "repelStrength": 12.7376302083333,
+  "centerStrength": 0.166422526041667,
+  "repelStrength": 8.91845703125,
   "linkStrength": 1,
-  "linkDistance": 179,
-  "scale": 1.174500367835269,
-  "close": true
+  "linkDistance": 198,
+  "scale": 0.49536585164615493,
+  "close": false
 }

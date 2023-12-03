@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "책/Data view.md",
+                "file": "배우기.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,18 +86,6 @@
               "type": "markdown",
               "state": {
                 "file": "프로젝트/THE BOOK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5dbd797edb267d2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자동매매/Binance API.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "책/Data view.md",
+                "file": "배우기.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -199,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "책/Data view.md",
+                "file": "배우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "책/Data view.md"
+                "file": "배우기.md"
               }
             }
           },
@@ -278,11 +266,16 @@
   },
   "active": "786eabb31ce9a3dc",
   "lastOpenFiles": [
+    "자동매매/Freqtrade 기록/거래량 상위.md",
     "책/쉽게 읽는 페르마의 마지막 정리.md",
+    "자동매매/Freqtrade 기록",
+    "자동매매/Freqtrade 기록.md",
+    "자동매매/주식으로 바꾸기",
+    "자동매매/Binance API.md",
     "책/Data view.md",
+    "옵시디언.md",
     "마크다운.md",
     "Users/seowoo0730/Downloads/icons/tabler-icons/Notebook.svg",
-    "옵시디언.md",
     "배우기.md",
     "Lg Ai Youth Camp.md",
     "프로젝트/자동매매.md",
@@ -292,7 +285,6 @@
     "링크 테스트.md",
     "일기/2023-09-20.md",
     "자동매매/freqtrade.md",
-    "자동매매/Binance API.md",
     "자동매매",
     "Binance API",
     "Untitled 1.md",
@@ -311,9 +303,7 @@
     "Brain/해킹/리눅스/리눅스.md",
     "Brain/Untitled.canvas",
     "Brain/즐겨찾기",
-    "Brain/해킹/리눅스/반딧",
     "Brain/수학/수학.md",
-    "Brain/일기/일기.md",
-    "Brain/해킹/리눅스/칼리 리눅스"
+    "Brain/일기/일기.md"
   ]
 }

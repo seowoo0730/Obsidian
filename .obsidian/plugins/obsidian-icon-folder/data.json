@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
+      "LiLineChart",
+      "LiDatabase",
       "TiBooks",
       "RiComputerLine",
-      "LiBook",
-      "LiPencil",
-      "FabPen"
+      "LiBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,7 +43,8 @@
     "inheritanceIcon": "FasBookAtlas"
   },
   "자동매매": "IbGraphLineUp",
-  "자동매매/Binance API.md": "SiBinance",
   "배우기.md": "LiPencil",
-  "책": "TiBooks"
+  "책": "TiBooks",
+  "자동매매/Freqtrade 기록": "LiDatabase",
+  "자동매매/주식으로 바꾸기": "LiLineChart"
 }

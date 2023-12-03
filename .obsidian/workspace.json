@@ -11,8 +11,12 @@
             "id": "985baa6caa0daf0b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Unix/Unix.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -225,6 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Unix/Unix.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -241,6 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Unix/Unix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +268,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Unix/Unix.md"
+              }
             }
           },
           {

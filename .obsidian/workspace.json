@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "985baa6caa0daf0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Unix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f8f5907b340eead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Unix/echo (문자열 출력하기).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3dcb62e0b73b771",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)/upgrade (패키지 업그래이드).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4a6694d739eb7c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e4554b60aea338f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Unix/IO Redirection (<, >) (입력과 출력 파일에 저장, 출력).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e9c495aa6383589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4d3a90a655c3da9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Unix/linux 폴더 구조/부모 폴더(상위폴더).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "15ba7a6896000059",
             "type": "leaf",
             "state": {
@@ -229,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unix/Unix.md",
+                "file": "자동매매/Freqtrade 기록/거래량 상위.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -246,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unix/Unix.md",
+                "file": "자동매매/Freqtrade 기록/거래량 상위.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix/Unix.md"
+                "file": "자동매매/Freqtrade 기록/거래량 상위.md"
               }
             }
           },
@@ -323,25 +239,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "985baa6caa0daf0b",
+  "active": "15ba7a6896000059",
   "lastOpenFiles": [
+    "Unix/Unix/linux 폴더 구조/부모 폴더(상위폴더).md",
+    "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt).md",
+    "Unix/Unix/IO Redirection (<, >) (입력과 출력 파일에 저장, 출력).md",
+    "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)/upgrade (패키지 업그래이드).md",
     "책/쉽게 읽는 페르마의 마지막 정리.md",
+    "Unix/Unix/echo (문자열 출력하기).md",
+    "Unix/Unix.md",
     "책/Data view.md",
     "배우기.md",
     "자동매매/Freqtrade 기록/거래량 상위.md",
     "Unix/Unix/--help (간략한 도움말 출력).md",
-    "Unix/Unix.md",
-    "Unix/Unix/IO Redirection (<, >) (입력과 출력 파일에 저장, 출력).md",
     "Unix/Unix/ps aux (현재 실행되는 프로그램 보기).md",
-    "Unix/Unix/echo (문자열 출력하기).md",
-    "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)/upgrade (패키지 업그래이드).md",
-    "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt).md",
     "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)/패키지 매니저 (apt-get, apt-cache, sudo apt).md",
     "Unix/Unix/명령어 순서대로 실행하기/명령어 순서대로 실행하기.md",
     "Unix/Unix/폴더 이름에 띄어쓰기 가 있는 경우.md",
     "Unix/Unix/linux 폴더 구조/linux 폴더 구조.md",
     "pipeline [.md",
-    "Unix/Unix/linux 폴더 구조/부모 폴더(상위폴더).md",
     "부모  폴더(상위폴더).md",
     "code ~",
     "Unix/Unix/linux 폴더 구조/(최상위 폴더).md",

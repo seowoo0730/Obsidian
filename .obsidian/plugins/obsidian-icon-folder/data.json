@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
+      "TiMathSymbols",
+      "LiBook",
+      "RiBookOpenLine",
       "TiMathFunction",
-      "TiMath",
-      "LiBarChart4",
-      "TiKeyboard",
-      "IbChartBar"
+      "TiMath"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,12 +33,8 @@
   "옵시디언.md": "TiNotebook",
   "Users": "IbUser",
   "프로젝트": {
-    "iconName": "SiGithub",
+    "iconName": null,
     "inheritanceIcon": "IbGithub"
-  },
-  "프로젝트/THE BOOK.md": {
-    "iconName": "LiBook",
-    "inheritanceIcon": "FasBookAtlas"
   },
   "자동매매": "IbGraphLineUp",
   "배우기.md": "LiPencil",
@@ -68,5 +64,11 @@
   },
   "자동매매/자동매매.md": "IbGraphLineUp",
   "LaTex": "TiMath",
-  "LaTex/LaTeX.md": "TiMathFunction"
+  "LaTex/LaTeX.md": "TiMathFunction",
+  "THE BOOK/THE BOOK.md": {
+    "iconName": "LiBook",
+    "inheritanceIcon": "FasBookAtlas"
+  },
+  "THE BOOK": "RiBookOpenLine",
+  "LaTeX 기호.md": "TiMathSymbols"
 }

@@ -1,0 +1,3 @@
+- [LaTeX 기호 모음](https://jjycjnmath.tistory.com/117)
+- [수학 기호 LaTeX Symbols](https://strikers01.tistory.com/445)
+- [수학/약어 및 기호](https://namu.wiki/w/%EC%88%98%ED%95%99/%EC%95%BD%EC%96%B4%20%EB%B0%8F%20%EA%B8%B0%ED%98%B8)

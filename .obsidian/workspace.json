@@ -61,7 +61,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "키보드/고려사항.md",
+                "file": "THE BOOK/요구사항.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7bcb7b388d2bf04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "키보드/키캡.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f83ef93a1eec06e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "키보드/키캡.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -194,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "키보드/고려사항.md",
+                "file": "키보드/키캡.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -211,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "키보드/고려사항.md",
+                "file": "키보드/키캡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "키보드/고려사항.md"
+                "file": "키보드/키캡.md"
               }
             }
           },
@@ -288,11 +312,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e7140c253f00093",
+  "active": "f83ef93a1eec06e9",
   "lastOpenFiles": [
-    "배우기.md",
-    "키보드/고려사항.md",
+    "키보드/팜레스트.md",
+    "키보드/키캡.md",
     "THE BOOK/요구사항.md",
+    "키보드/고려사항.md",
+    "배우기.md",
     "키보드",
     "THE BOOK/THE BOOK.md",
     "LaTeX 기호.md",
@@ -319,8 +345,6 @@
     "Unix/Unix/ps aux (현재 실행되는 프로그램 보기).md",
     "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)/패키지 매니저 (apt-get, apt-cache, sudo apt).md",
     "Unix/Unix/명령어 순서대로 실행하기/명령어 순서대로 실행하기.md",
-    "Unix/Unix/폴더 이름에 띄어쓰기 가 있는 경우.md",
-    "Unix/Unix/linux 폴더 구조/linux 폴더 구조.md",
     "code ~",
     "Unix/Unix/명령어 순서대로 실행하기/Untitled",
     "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)",

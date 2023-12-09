@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
+      "RiKeyboardLine",
       "TiKeyboard",
       "TiMathSymbols",
       "LiBook",
-      "RiBookOpenLine",
-      "TiMathFunction"
+      "RiBookOpenLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -71,5 +71,6 @@
   },
   "THE BOOK": "RiBookOpenLine",
   "LaTeX 기호.md": "TiMathSymbols",
-  "키보드": "TiKeyboard"
+  "키보드": "TiKeyboard",
+  "키보드/키캡.md": "RiKeyboardLine"
 }

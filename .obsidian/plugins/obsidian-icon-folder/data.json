@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
+      "TiMathFunction",
+      "TiMath",
+      "LiBarChart4",
       "TiKeyboard",
-      "IbChartBar",
-      "RiComputerLine",
-      "LiBook",
-      "IbEntertainment"
+      "IbChartBar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,7 +32,6 @@
   "마크다운.md": "TiMarkdown",
   "옵시디언.md": "TiNotebook",
   "Users": "IbUser",
-  "프로젝트/자동매매.md": "IbGraphLineUp",
   "프로젝트": {
     "iconName": "SiGithub",
     "inheritanceIcon": "IbGithub"
@@ -44,7 +43,6 @@
   "자동매매": "IbGraphLineUp",
   "배우기.md": "LiPencil",
   "책": "TiBooks",
-  "자동매매/Freqtrade 기록": "LiDatabase",
   "자동매매/주식으로 바꾸기": "LiLineChart",
   "Unix": {
     "iconName": "RiComputerLine",
@@ -62,5 +60,13 @@
     "iconName": null,
     "inheritanceIcon": "RiComputerLine"
   },
-  "자동매매/Freqtrade 기록/거래량 상위.md": "IbChartBar"
+  "자동매매/freqtrade/Freqtrade 기록": "LiDatabase",
+  "자동매매/freqtrade/Freqtrade 기록/거래량 상위.md": "IbChartBar",
+  "자동매매/freqtrade": {
+    "iconName": "LiBarChart4",
+    "inheritanceIcon": "LiLineChart"
+  },
+  "자동매매/자동매매.md": "IbGraphLineUp",
+  "LaTex": "TiMath",
+  "LaTex/LaTeX.md": "TiMathFunction"
 }

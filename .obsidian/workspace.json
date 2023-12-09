@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "2920240b0ddaca20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "배우기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e273f86071186540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LaTex/LaTeX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "786eabb31ce9a3dc",
             "type": "leaf",
             "state": {
@@ -79,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -145,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "배우기.md",
+                "file": "LaTex/LaTeX.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "배우기.md",
+                "file": "LaTex/LaTeX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "배우기.md"
+                "file": "LaTex/LaTeX.md"
               }
             }
           },
@@ -239,11 +264,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "15ba7a6896000059",
+  "active": "e273f86071186540",
   "lastOpenFiles": [
+    "배우기.md",
+    "LaTex/LaTeX.md",
+    "LaTex",
+    "자동매매/freqtrade/freqtrade.md",
+    "자동매매/자동매매.md",
+    "프로젝트/THE BOOK.md",
+    "자동매매/freqtrade",
     "책/쉽게 읽는 페르마의 마지막 정리.md",
     "책/Data view.md",
-    "자동매매/Freqtrade 기록/거래량 상위.md",
+    "자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
     "커스텀 키보드/고려 사항.md",
     "커스텀 키보드",
     "Unix/Unix/linux 폴더 구조/부모 폴더(상위폴더).md",
@@ -252,7 +284,6 @@
     "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)/upgrade (패키지 업그래이드).md",
     "Unix/Unix/echo (문자열 출력하기).md",
     "Unix/Unix.md",
-    "배우기.md",
     "Unix/Unix/--help (간략한 도움말 출력).md",
     "Unix/Unix/ps aux (현재 실행되는 프로그램 보기).md",
     "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)/패키지 매니저 (apt-get, apt-cache, sudo apt).md",
@@ -266,17 +297,11 @@
     "Unix/Unix/명령어 순서대로 실행하기/Untitled",
     "Unix/Unix/whoami (유저, 관리자 판별).md",
     "Unix/Unix/wget (웹의 파일을 다운로드 받기).md",
-    "Unix/Unix/touch (빈 파일 만들기).md",
-    "Unix/Unix/sudo (관리자 권한).md",
-    "Unix/Unix/rmdir(폴더 지우기).md",
-    "Unix/Unix/rm (파일, 폴더 삭제 하기).md",
     "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)",
     "Unix/Unix/명령어 순서대로 실행하기",
     "Unix/Unix/linux 폴더 구조",
     "Unix/Unix/linux CRUD 0d3b5f5885bf45c496b57970fa7a34b6_all.csv",
     "Unix/Unix/linux CRUD 0d3b5f5885bf45c496b57970fa7a34b6.csv",
-    "Unix/Unix/linux CRUD",
-    "Unix/Unix",
     "Users/seowoo0730/Downloads/icons/tabler-icons/Notebook.svg",
     "Untitled.canvas",
     "Brain/Untitled.canvas"

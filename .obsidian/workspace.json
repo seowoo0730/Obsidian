@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자동매매/freqtrade/analyze.md",
+                "file": "자동매매/freqtrade/Setting.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자동매매/freqtrade/analyze.md",
+                "file": "자동매매/freqtrade/Setting.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자동매매/freqtrade/analyze.md",
+                "file": "자동매매/freqtrade/Setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자동매매/freqtrade/analyze.md"
+                "file": "자동매매/freqtrade/Setting.md"
               }
             }
           },
@@ -338,14 +338,16 @@
   },
   "active": "a4cbc378476d1f58",
   "lastOpenFiles": [
-    "자동매매/freqtrade/Backtest.md",
-    "자동매매/freqtrade/analyze.md",
+    "자동매매/freqtrade/freqtrade.md",
+    "자동매매/freqtrade/Setting.md",
+    "자동매매/freqtrade/Setting.md",
+    "자동매매/freqtrade/Run.md",
     "자동매매/freqtrade/고려사항.md",
     "자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
-    "자동매매/freqtrade/Download market data.md",
     "자동매매/freqtrade/Docker start.md",
-    "자동매매/freqtrade/freqtrade.md",
-    "자동매매/freqtrade/Run.md",
+    "자동매매/freqtrade/Download market data.md",
+    "자동매매/freqtrade/Backtest.md",
+    "자동매매/freqtrade/analyze.md",
     "자동매매/자동매매.md",
     "키보드/고려사항.md",
     "키보드/키캡.md",
@@ -367,8 +369,6 @@
     "커스텀 키보드",
     "Unix/Unix/linux 폴더 구조/부모 폴더(상위폴더).md",
     "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt).md",
-    "Unix/Unix/IO Redirection (<, >) (입력과 출력 파일에 저장, 출력).md",
-    "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)/upgrade (패키지 업그래이드).md",
     "code ~",
     "Unix/Unix/명령어 순서대로 실행하기/Untitled",
     "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)",

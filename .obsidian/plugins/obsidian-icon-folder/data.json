@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
+      "IbGraphLineUp",
       "TiNotes",
       "RiKeyboardLine",
       "TiKeyboard",
-      "TiMathSymbols",
-      "LiBook"
+      "TiMathSymbols"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -73,5 +73,6 @@
   "LaTeX 기호.md": "TiMathSymbols",
   "키보드": "TiKeyboard",
   "키보드/키캡.md": "RiKeyboardLine",
-  "자동매매/freqtrade/고려사항.md": "TiNotes"
+  "자동매매/freqtrade/고려사항.md": "TiNotes",
+  "자동매매/freqtrade/Run.md": "IbGraphLineUp"
 }

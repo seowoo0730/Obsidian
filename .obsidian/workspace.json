@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자동매매/freqtrade/freqtrade.md",
+                "file": "자동매매/freqtrade/고려사항.md",
                 "mode": "source",
                 "source": false
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자동매매/freqtrade/freqtrade.md",
+                "file": "자동매매/freqtrade/고려사항.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자동매매/freqtrade/freqtrade.md",
+                "file": "자동매매/freqtrade/고려사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자동매매/freqtrade/freqtrade.md"
+                "file": "자동매매/freqtrade/고려사항.md"
               }
             }
           },
@@ -312,9 +312,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f83ef93a1eec06e9",
+  "active": "40d8773fe00931f2",
   "lastOpenFiles": [
     "자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
+    "자동매매/freqtrade/고려사항.md",
     "자동매매/freqtrade/freqtrade.md",
     "자동매매/자동매매.md",
     "키보드/고려사항.md",
@@ -344,7 +345,6 @@
     "Unix/Unix/--help (간략한 도움말 출력).md",
     "Unix/Unix/ps aux (현재 실행되는 프로그램 보기).md",
     "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)/패키지 매니저 (apt-get, apt-cache, sudo apt).md",
-    "Unix/Unix/명령어 순서대로 실행하기/명령어 순서대로 실행하기.md",
     "code ~",
     "Unix/Unix/명령어 순서대로 실행하기/Untitled",
     "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)",

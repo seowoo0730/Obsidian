@@ -8,114 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15ba7a6896000059",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "배우기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2920240b0ddaca20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "배우기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e273f86071186540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THE BOOK/요구사항.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20ee77b7cefc8018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "배우기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e7140c253f00093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "THE BOOK/요구사항.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7bcb7b388d2bf04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "키보드/키캡.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f83ef93a1eec06e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자동매매/freqtrade/고려사항.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b80d972257fba04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자동매매/freqtrade/Docker start.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4cbc378476d1f58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자동매매/freqtrade/Setting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "786eabb31ce9a3dc",
             "type": "leaf",
             "state": {
@@ -175,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자동매매/freqtrade/Setting.md",
+                "file": "책/쉽게 읽는 페르마의 마지막 정리.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -259,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자동매매/freqtrade/Setting.md",
+                "file": "책/쉽게 읽는 페르마의 마지막 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자동매매/freqtrade/Setting.md"
+                "file": "책/쉽게 읽는 페르마의 마지막 정리.md"
               }
             }
           },
@@ -336,24 +227,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4cbc378476d1f58",
+  "active": "786eabb31ce9a3dc",
   "lastOpenFiles": [
-    "자동매매/freqtrade/freqtrade.md",
-    "자동매매/freqtrade/Setting.md",
-    "자동매매/freqtrade/Setting.md",
-    "자동매매/freqtrade/Run.md",
+    "배우기.md",
+    "THE BOOK/요구사항.md",
+    "키보드/키캡.md",
     "자동매매/freqtrade/고려사항.md",
-    "자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
     "자동매매/freqtrade/Docker start.md",
-    "자동매매/freqtrade/Download market data.md",
+    "자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
     "자동매매/freqtrade/Backtest.md",
     "자동매매/freqtrade/analyze.md",
+    "자동매매/freqtrade/Setting.md",
+    "자동매매/freqtrade/freqtrade.md",
+    "자동매매/freqtrade/Run.md",
+    "자동매매/freqtrade/Download market data.md",
     "자동매매/자동매매.md",
     "키보드/고려사항.md",
-    "키보드/키캡.md",
     "키보드/팜레스트.md",
-    "THE BOOK/요구사항.md",
-    "배우기.md",
     "키보드",
     "THE BOOK/THE BOOK.md",
     "LaTeX 기호.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "책/쉽게 읽는 페르마의 마지막 정리.md",
+                "file": "배우기.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "책/쉽게 읽는 페르마의 마지막 정리.md",
+                "file": "배우기.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "책/쉽게 읽는 페르마의 마지막 정리.md",
+                "file": "배우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "책/쉽게 읽는 페르마의 마지막 정리.md"
+                "file": "배우기.md"
               }
             }
           },
@@ -229,6 +229,9 @@
   },
   "active": "786eabb31ce9a3dc",
   "lastOpenFiles": [
+    "옵시디언.md",
+    "LaTeX 기호.md",
+    "책/쉽게 읽는 페르마의 마지막 정리.md",
     "배우기.md",
     "THE BOOK/요구사항.md",
     "키보드/키캡.md",
@@ -246,14 +249,12 @@
     "키보드/팜레스트.md",
     "키보드",
     "THE BOOK/THE BOOK.md",
-    "LaTeX 기호.md",
     "THE BOOK",
     "마크다운.md",
     "링크 테스트.md",
     "LaTex/LaTeX.md",
     "LaTex",
     "자동매매/freqtrade",
-    "책/쉽게 읽는 페르마의 마지막 정리.md",
     "책/Data view.md",
     "커스텀 키보드/고려 사항.md",
     "커스텀 키보드",

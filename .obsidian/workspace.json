@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "배우기.md",
+                "file": "Unix/Unix/grep (검색한 글자가 있는 줄만 출력).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1ba8e61779de216",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unix/Unix/ls(현재 폴더의 상태보기).md",
                 "mode": "source",
                 "source": false
               }
@@ -67,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "배우기.md",
+                "file": "Unix/Unix/ls(현재 폴더의 상태보기).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -150,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "배우기.md",
+                "file": "Unix/Unix/ls(현재 폴더의 상태보기).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "배우기.md"
+                "file": "Unix/Unix/ls(현재 폴더의 상태보기).md"
               }
             }
           },
@@ -227,12 +240,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "786eabb31ce9a3dc",
+  "active": "a1ba8e61779de216",
   "lastOpenFiles": [
+    "Unix/Unix/--help (간략한 도움말 출력).md",
+    "책/Data view.md",
+    "Unix/Unix/pipeline.md",
+    "Unix/Unix/grep (검색한 글자가 있는 줄만 출력).md",
+    "배우기.md",
     "옵시디언.md",
     "LaTeX 기호.md",
     "책/쉽게 읽는 페르마의 마지막 정리.md",
-    "배우기.md",
     "THE BOOK/요구사항.md",
     "키보드/키캡.md",
     "자동매매/freqtrade/고려사항.md",
@@ -255,11 +272,7 @@
     "LaTex/LaTeX.md",
     "LaTex",
     "자동매매/freqtrade",
-    "책/Data view.md",
-    "커스텀 키보드/고려 사항.md",
     "커스텀 키보드",
-    "Unix/Unix/linux 폴더 구조/부모 폴더(상위폴더).md",
-    "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt).md",
     "code ~",
     "Unix/Unix/명령어 순서대로 실행하기/Untitled",
     "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)",

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unix/Unix/ls(현재 폴더의 상태보기).md",
+                "file": "자동매매/freqtrade/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unix/Unix/ls(현재 폴더의 상태보기).md",
+                "file": "자동매매/freqtrade/Untitled.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unix/Unix/ls(현재 폴더의 상태보기).md",
+                "file": "자동매매/freqtrade/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix/Unix/ls(현재 폴더의 상태보기).md"
+                "file": "자동매매/freqtrade/Untitled.md"
               }
             }
           },
@@ -242,6 +242,10 @@
   },
   "active": "a1ba8e61779de216",
   "lastOpenFiles": [
+    "자동매매/freqtrade/Docker start.md",
+    "자동매매/freqtrade/Untitled.md",
+    "Unix/Unix/명령어 순서대로 실행하기/; (명령어 순서대로 실행하기).md",
+    "Unix/Unix/ls(현재 폴더의 상태보기).md",
     "Unix/Unix/--help (간략한 도움말 출력).md",
     "책/Data view.md",
     "Unix/Unix/pipeline.md",
@@ -253,7 +257,6 @@
     "THE BOOK/요구사항.md",
     "키보드/키캡.md",
     "자동매매/freqtrade/고려사항.md",
-    "자동매매/freqtrade/Docker start.md",
     "자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
     "자동매매/freqtrade/Backtest.md",
     "자동매매/freqtrade/analyze.md",
@@ -267,9 +270,6 @@
     "키보드",
     "THE BOOK/THE BOOK.md",
     "THE BOOK",
-    "마크다운.md",
-    "링크 테스트.md",
-    "LaTex/LaTeX.md",
     "LaTex",
     "자동매매/freqtrade",
     "커스텀 키보드",

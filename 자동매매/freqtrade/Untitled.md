@@ -3,5 +3,5 @@ docker compose run --rm freqtrade download-data --exchange binance --pairs BTC/U
 
 docker compose run --rm freqtrade backtesting --strategy SampleStrategy --timerange=20230701- --timeframe-detail 1m --export=signals
 
-docker compose run --rm freqtrade backtesting-analysis -c user_data/config.json --analysis-to-csv --export-filename=user_data/backtest_results/backtest-result-2023-12-19_12-44-10.json
+docker compose run --rm freqtrade backtesting-analysis -c user_data/config.json --analysis-to-csv --analysis-groups 0
 ```

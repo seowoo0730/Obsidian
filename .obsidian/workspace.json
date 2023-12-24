@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자동매매/freqtrade/고려사항.md",
+                "file": "자동매매/freqtrade/Setting.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자동매매/freqtrade/고려사항.md",
+                "file": "자동매매/freqtrade/Setting.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자동매매/freqtrade/고려사항.md",
+                "file": "자동매매/freqtrade/Setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자동매매/freqtrade/고려사항.md"
+                "file": "자동매매/freqtrade/Setting.md"
               }
             }
           },
@@ -242,9 +242,15 @@
   },
   "active": "a1ba8e61779de216",
   "lastOpenFiles": [
-    "자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
+    "자동매매/freqtrade/freqtrade.md",
+    "자동매매/freqtrade/Download market data.md",
+    "자동매매/freqtrade/Run.md",
     "자동매매/freqtrade/Setting.md",
+    "자동매매/자동매매.md",
+    "자동매매/AutoFreq.md",
+    "AutoFreq.md",
     "자동매매/freqtrade/고려사항.md",
+    "자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
     "자동매매/freqtrade/명령어 저장.md",
     "Unix/Unix/head (앞쪽 텍스트만 출력).md",
     "Unix/Unix/cp (파일 복사).md",
@@ -262,12 +268,6 @@
     "Unix/Unix/mv (폴더 위치 바꾸기)(폴더 이름 바꾸기).md",
     "Unix/Unix/pwd(현재 위치(폴더) 보기).md",
     "Unix/Unix/rm (파일, 폴더 삭제 하기).md",
-    "자동매매/freqtrade/Docker start.md",
-    "Unix/Unix/명령어 순서대로 실행하기/; (명령어 순서대로 실행하기).md",
-    "책/Data view.md",
-    "Unix/Unix/pipeline.md",
-    "배우기.md",
-    "옵시디언.md",
     "키보드",
     "THE BOOK",
     "LaTex",

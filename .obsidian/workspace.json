@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자동매매/AutoFreq.md",
+                "file": "배우기.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자동매매/AutoFreq.md",
+                "file": "배우기.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자동매매/AutoFreq.md",
+                "file": "배우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자동매매/AutoFreq.md"
+                "file": "배우기.md"
               }
             }
           },
@@ -243,8 +243,8 @@
   "active": "a1ba8e61779de216",
   "lastOpenFiles": [
     "자동매매/자동매매.md",
-    "자동매매/freqtrade/고려사항.md",
     "자동매매/AutoFreq.md",
+    "자동매매/freqtrade/고려사항.md",
     "자동매매/freqtrade/명령어 저장.md",
     "자동매매/freqtrade/analyze.md",
     "자동매매/freqtrade/Setting.md",

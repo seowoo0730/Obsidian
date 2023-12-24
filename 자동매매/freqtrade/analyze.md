@@ -7,3 +7,4 @@ docker compose run --rm freqtrade plot-dataframe --strategy AwesomeStrategy -p B
 docker compose -f docker/docker-compose-jupyter.yml up
 ```
 `https://127.0.0.1:8888/lab`
+#자동매매

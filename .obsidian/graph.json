@@ -39,7 +39,7 @@
       "query": "tag:#자동매매  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 16470096
       }
     },
     {
@@ -57,7 +57,7 @@
       }
     },
     {
-      "query": "",
+      "query": "path:자동매매 ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -74,6 +74,6 @@
   "repelStrength": 8.91845703125,
   "linkStrength": 1,
   "linkDistance": 198,
-  "scale": 0.49536585164615493,
+  "scale": 0.47930122738447545,
   "close": false
 }

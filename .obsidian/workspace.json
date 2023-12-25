@@ -6,38 +6,27 @@
       {
         "id": "3b82dbf9f006b10f",
         "type": "tabs",
+        "dimension": 72.73371104815864,
         "children": [
-          {
-            "id": "786eabb31ce9a3dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/Unix/grep (검색한 글자가 있는 줄만 출력).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "a1ba8e61779de216",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마크다운.md",
+                "file": "Git/25 work flow (작업환경).md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "647c0c98dfd162b0",
+            "id": "2688e7a80f938198",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git.md",
+                "file": "책/Data view.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +68,26 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "e90d1860b4fc3eb6",
+        "type": "tabs",
+        "dimension": 27.26628895184136,
+        "children": [
+          {
+            "id": "647c0c98dfd162b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unix/2 명령어 순서대로 실행하기/0 명령어 순서대로 실행하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git.md",
+                "file": "Unix/2 명령어 순서대로 실행하기/0 명령어 순서대로 실행하기.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git.md",
+                "file": "Unix/2 명령어 순서대로 실행하기/0 명령어 순서대로 실행하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git.md"
+                "file": "Unix/2 명령어 순서대로 실행하기/0 명령어 순서대로 실행하기.md"
               }
             }
           },
@@ -243,49 +250,50 @@
   },
   "active": "647c0c98dfd162b0",
   "lastOpenFiles": [
+    "Unix/0 linux CRUD/4 Delet.md",
+    "Unix/0 linux CRUD/3 Update.md",
+    "Unix/0 linux CRUD/2 Read.md",
+    "Unix/0 linux CRUD/1 Creat.md",
+    "Unix/0 linux CRUD/0 linux CRUD.md",
+    "Unix/00 Unix.md",
+    "Unix/0 linux CRUD/제목 없음.md",
+    "Unix/2 명령어 순서대로 실행하기/1 ; (명령어 순서대로 실행하기).md",
+    "Unix/1 linux 폴더 구조/1 - (최상위 폴더).md",
+    "Unix/28 echo.md",
+    "Unix/25 ps aux (현재 실행되는 프로그램 보기).md",
+    "Unix/26 IO Redirection (입력과 출력 파일에 저장, 출력).md",
+    "Unix/18 ~-.zshrc (콘솔 수정파일).md",
+    "Git/00 Git.md",
+    "Git/25 work flow (작업환경).md",
+    "Git/19 clone.md",
+    "Git/git flow/git flow.md",
+    "Git/git flow/git flow(프로그램).md",
+    "Git/06 log.md",
+    "마크다운.md",
+    "Git/23 stash.md",
+    "Git/07 revert.md",
+    "Git/12 rebase.md",
+    "Git/15 push.md",
+    "Git/08 reset.md",
+    "img/Untitled 6.png",
+    "책/Data view.md",
+    "Unix/3 패키지 매니저 (apt-get, apt-cache, sudo apt)",
+    "Unix/2 명령어 순서대로 실행하기",
+    "Unix/1 linux 폴더 구조",
+    "Unix/0 linux CRUD",
+    "Unix",
+    "Unix",
     "img/Untitled.png",
-    "Git/work flow (작업환경)/work flow (작업환경).md",
+    "img/Untitled 8.png",
     "img/Untitled 7.png",
     "img",
-    "Untitled 2.png",
-    "Git/rebase.md",
-    "Git/merge (브랜치 병합).md",
-    "Git/commit.md",
-    "Git/diff.md",
-    "Git/rm.md",
-    "Git/pull.md",
-    "Git/gitignore.md",
-    "Git/push.md",
-    "Git/remote (저장소).md",
-    "Git/revert.md",
-    "Git/원격 저장소 연결하기/원격 저장소 연결하기.md",
-    "Git/config.md",
-    "Git/branch (브랜치).md",
-    "Untitled 5.png",
-    "Untitled 4.png",
-    "배우기.md",
-    "Untitled 8.png",
-    "Untitled 6.png",
-    "Untitled 3.png",
-    "Git/git flow/git flow(프로그램)/git flow(프로그램).md",
-    "Git/git flow/git flow.md",
-    "Git/tag.md",
-    "Git/stash.md",
-    "Git/cherry-pick.md",
-    "Git/clone/clone.md",
-    "Git/fetch.md",
-    "Git/checkout (이동).md",
-    "Git/reset/reset.md",
-    "Git/log/log.md",
+    "img/Untitled 2.png",
+    "img/Untitled 5.png",
+    "img/Untitled 4.png",
+    "img/Untitled 3.png",
     "Git/git flow/git flow(프로그램)",
     "Git/work flow (작업환경)",
     "Git/git flow",
-    "Git/clone",
-    "Git/원격 저장소 연결하기",
-    "Git/reset",
-    "Git/log",
-    "Git",
-    "Notion",
     "Users/seowoo0730/Downloads/icons/tabler-icons/Notebook.svg",
     "Untitled.canvas",
     "Brain/Untitled.canvas"

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "배우기.md",
+                "file": "마크다운.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "옵시디언.md",
+                "file": "자동매매/AutoFreq.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "배우기.md",
+                "file": "자동매매/AutoFreq.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "배우기.md",
+                "file": "자동매매/AutoFreq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "배우기.md"
+                "file": "자동매매/AutoFreq.md"
               }
             }
           },
@@ -240,25 +240,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1ba8e61779de216",
+  "active": "647c0c98dfd162b0",
   "lastOpenFiles": [
+    "자동매매/freqtrade/freqtrade.md",
+    "자동매매/자동매매.md",
+    "자동매매/freqtrade/Setting.md",
+    "자동매매/freqtrade/명령어 저장.md",
+    "자동매매/freqtrade/Download market data.md",
+    "자동매매/freqtrade/Docker start.md",
+    "자동매매/freqtrade/Backtest.md",
+    "자동매매/freqtrade/analyze.md",
+    "배우기.md",
+    "자동매매/AutoFreq.md",
+    "옵시디언.md",
+    "마크다운.md",
+    "Unix/Unix/grep (검색한 글자가 있는 줄만 출력).md",
     "책/쉽게 읽는 페르마의 마지막 정리.md",
     "책/Data view.md",
     "LaTex/LaTeX.md",
-    "배우기.md",
-    "자동매매/AutoFreq.md",
     "Unix/Unix.md",
-    "Unix/Unix/grep (검색한 글자가 있는 줄만 출력).md",
     "자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
     "자동매매/freqtrade/고려사항.md",
-    "자동매매/freqtrade/명령어 저장.md",
-    "자동매매/freqtrade/analyze.md",
-    "자동매매/freqtrade/Backtest.md",
-    "자동매매/freqtrade/Docker start.md",
-    "자동매매/freqtrade/Download market data.md",
-    "자동매매/freqtrade/freqtrade.md",
-    "자동매매/freqtrade/Setting.md",
-    "자동매매/자동매매.md",
     "자동매매/freqtrade/Run.md",
     "AutoFreq.md",
     "Unix/Unix/head (앞쪽 텍스트만 출력).md",
@@ -266,8 +268,6 @@
     "Unix/Unix/cd(현재위치(폴더)바꾸기).md",
     "Unix/Unix/폴더 이름에 띄어쓰기 가 있는 경우.md",
     "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt).md",
-    "Unix/Unix/콘솔 수정파일.md",
-    "Unix/Unix/명령어 순서대로 실행하기.md",
     "키보드",
     "THE BOOK",
     "LaTex",

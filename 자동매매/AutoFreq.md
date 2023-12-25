@@ -1,7 +1,9 @@
 - [ ] Python
 - [ ] 프로그래밍 공부
 - [ ] 구조 설계
-- [ ] Freqtrade 코드 공부
+- [ ] REST API
+- [ ] Git
+- [ ] Git flow
 
 # 구조
 1. 백테스트

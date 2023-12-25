@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/Haskell/Haskell.md",
+                "file": "개발/자동매매/freqtrade/명령어 저장.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/Haskell/Haskell.md",
+                "file": "개발/자동매매/freqtrade/명령어 저장.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/Haskell/Haskell.md",
+                "file": "개발/자동매매/freqtrade/명령어 저장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/Haskell/Haskell.md"
+                "file": "개발/자동매매/freqtrade/명령어 저장.md"
               }
             }
           },
@@ -252,12 +252,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "40d8773fe00931f2",
+  "active": "2d094b43be1cc7a4",
   "lastOpenFiles": [
+    "개발/Haskell/Haskell.md",
     "개발/자동매매/AutoFreq.md",
     "개발/디자인 패턴/디자인 패턴.md",
     "배우기.md",
-    "개발/Haskell/Haskell.md",
     "개발/Haskell",
     "개발/JavaScript/11 promise.md",
     "개발/자동매매/freqtrade/고려사항.md",

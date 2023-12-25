@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자동매매/AutoFreq.md",
+                "file": "배우기.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자동매매/AutoFreq.md",
+                "file": "배우기.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자동매매/AutoFreq.md",
+                "file": "배우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자동매매/AutoFreq.md"
+                "file": "배우기.md"
               }
             }
           },
@@ -242,9 +242,13 @@
   },
   "active": "a1ba8e61779de216",
   "lastOpenFiles": [
+    "책/쉽게 읽는 페르마의 마지막 정리.md",
+    "책/Data view.md",
+    "LaTex/LaTeX.md",
+    "배우기.md",
+    "자동매매/AutoFreq.md",
     "Unix/Unix.md",
     "Unix/Unix/grep (검색한 글자가 있는 줄만 출력).md",
-    "배우기.md",
     "자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
     "자동매매/freqtrade/고려사항.md",
     "자동매매/freqtrade/명령어 저장.md",
@@ -255,7 +259,6 @@
     "자동매매/freqtrade/freqtrade.md",
     "자동매매/freqtrade/Setting.md",
     "자동매매/자동매매.md",
-    "자동매매/AutoFreq.md",
     "자동매매/freqtrade/Run.md",
     "AutoFreq.md",
     "Unix/Unix/head (앞쪽 텍스트만 출력).md",
@@ -265,9 +268,6 @@
     "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt).md",
     "Unix/Unix/콘솔 수정파일.md",
     "Unix/Unix/명령어 순서대로 실행하기.md",
-    "Unix/Unix/띄어쓰기.md",
-    "Unix/Unix/--help (간략한 도움말 출력).md",
-    "Unix/Unix/code.md",
     "키보드",
     "THE BOOK",
     "LaTex",

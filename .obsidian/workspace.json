@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자동매매/AutoFreq.md",
+                "file": "Git/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "자동매매/AutoFreq.md",
+                "file": "Git/Git.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "자동매매/AutoFreq.md",
+                "file": "Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "자동매매/AutoFreq.md"
+                "file": "Git/Git.md"
               }
             }
           },
@@ -237,47 +237,55 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "647c0c98dfd162b0",
   "lastOpenFiles": [
-    "자동매매/freqtrade/freqtrade.md",
-    "자동매매/자동매매.md",
-    "자동매매/freqtrade/Setting.md",
-    "자동매매/freqtrade/명령어 저장.md",
-    "자동매매/freqtrade/Download market data.md",
-    "자동매매/freqtrade/Docker start.md",
-    "자동매매/freqtrade/Backtest.md",
-    "자동매매/freqtrade/analyze.md",
+    "img/Untitled.png",
+    "Git/work flow (작업환경)/work flow (작업환경).md",
+    "img/Untitled 7.png",
+    "img",
+    "Untitled 2.png",
+    "Git/rebase.md",
+    "Git/merge (브랜치 병합).md",
+    "Git/commit.md",
+    "Git/diff.md",
+    "Git/rm.md",
+    "Git/pull.md",
+    "Git/gitignore.md",
+    "Git/push.md",
+    "Git/remote (저장소).md",
+    "Git/revert.md",
+    "Git/원격 저장소 연결하기/원격 저장소 연결하기.md",
+    "Git/config.md",
+    "Git/branch (브랜치).md",
+    "Untitled 5.png",
+    "Untitled 4.png",
     "배우기.md",
-    "자동매매/AutoFreq.md",
-    "옵시디언.md",
-    "마크다운.md",
-    "Unix/Unix/grep (검색한 글자가 있는 줄만 출력).md",
-    "책/쉽게 읽는 페르마의 마지막 정리.md",
-    "책/Data view.md",
-    "LaTex/LaTeX.md",
-    "Unix/Unix.md",
-    "자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
-    "자동매매/freqtrade/고려사항.md",
-    "자동매매/freqtrade/Run.md",
-    "AutoFreq.md",
-    "Unix/Unix/head (앞쪽 텍스트만 출력).md",
-    "Unix/Unix/cp (파일 복사).md",
-    "Unix/Unix/cd(현재위치(폴더)바꾸기).md",
-    "Unix/Unix/폴더 이름에 띄어쓰기 가 있는 경우.md",
-    "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt).md",
-    "키보드",
-    "THE BOOK",
-    "LaTex",
-    "자동매매/freqtrade",
-    "커스텀 키보드",
-    "code ~",
-    "Unix/Unix/명령어 순서대로 실행하기/Untitled",
-    "Unix/Unix/패키지 매니저 (apt-get, apt-cache, sudo apt)",
-    "Unix/Unix/명령어 순서대로 실행하기",
-    "Unix/Unix/linux 폴더 구조",
+    "Untitled 8.png",
+    "Untitled 6.png",
+    "Untitled 3.png",
+    "Git/git flow/git flow(프로그램)/git flow(프로그램).md",
+    "Git/git flow/git flow.md",
+    "Git/tag.md",
+    "Git/stash.md",
+    "Git/cherry-pick.md",
+    "Git/clone/clone.md",
+    "Git/fetch.md",
+    "Git/checkout (이동).md",
+    "Git/reset/reset.md",
+    "Git/log/log.md",
+    "Git/git flow/git flow(프로그램)",
+    "Git/work flow (작업환경)",
+    "Git/git flow",
+    "Git/clone",
+    "Git/원격 저장소 연결하기",
+    "Git/reset",
+    "Git/log",
+    "Git",
+    "Notion",
     "Users/seowoo0730/Downloads/icons/tabler-icons/Notebook.svg",
     "Untitled.canvas",
     "Brain/Untitled.canvas"

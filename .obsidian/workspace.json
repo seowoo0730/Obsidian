@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/자동매매/freqtrade/고려사항.md",
+                "file": "개발/Haskell/Haskell.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/자동매매/freqtrade/고려사항.md",
+                "file": "개발/Haskell/Haskell.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/자동매매/freqtrade/고려사항.md",
+                "file": "개발/Haskell/Haskell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/자동매매/freqtrade/고려사항.md"
+                "file": "개발/Haskell/Haskell.md"
               }
             }
           },
@@ -252,18 +252,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2d094b43be1cc7a4",
+  "active": "40d8773fe00931f2",
   "lastOpenFiles": [
+    "개발/자동매매/AutoFreq.md",
+    "개발/디자인 패턴/디자인 패턴.md",
+    "배우기.md",
+    "개발/Haskell/Haskell.md",
+    "개발/Haskell",
+    "개발/JavaScript/11 promise.md",
     "개발/자동매매/freqtrade/고려사항.md",
     "Run.md",
     "Unix/0 linux CRUD/0 linux CRUD.md",
     "제목 없음.md",
-    "개발/디자인 패턴/디자인 패턴.md",
     "키보드/키캡.md",
     "키보드/고려사항.md",
     "키보드/팜레스트.md",
-    "배우기.md",
-    "개발/자동매매/AutoFreq.md",
     "개발/유의적 버전(Semantic Versioning).md",
     "개발/SSH.md",
     "Lg Ai Youth Camp.md",
@@ -283,8 +286,6 @@
     "개발/HTTP 완벽가이드",
     "개발",
     "개발/Github/0 Github.md",
-    "개발/Github/issue/issue.md",
-    "개발/Git/00 Git.md",
     "img/Untitled 1.png",
     "img/Untitled 2 3 2.png",
     "img/Untitled 1 2 2.png",
@@ -297,7 +298,6 @@
     "개발/Python/4 예외 처리",
     "개발/Python/3 파일 입-출력",
     "개발/Python/2 연산자",
-    "개발/Python/1 함수(def)",
     "img/Untitled 13.png",
     "img/Untitled 10 1.png",
     "Untitled.canvas",

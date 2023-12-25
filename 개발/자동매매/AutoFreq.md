@@ -1,4 +1,4 @@
-- [ ] Python
+- [ ] Haskell
 - [ ] 프로그래밍 공부
 - [ ] 구조 설계
 - [ ] REST API

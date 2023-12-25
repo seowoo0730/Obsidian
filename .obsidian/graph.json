@@ -3,7 +3,7 @@
   "search": "",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -11,42 +11,21 @@
       "query": "path:Unix  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 16734039
       }
     },
     {
       "query": "tag:#math  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 6412287
       }
     },
     {
-      "query": "",
+      "query": "path:키보드  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "tag:#자동매매  ",
-      "color": {
-        "a": 1,
-        "rgb": 16470096
-      }
-    },
-    {
-      "query": "",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
+        "rgb": 6094703
       }
     },
     {
@@ -57,23 +36,23 @@
       }
     },
     {
-      "query": "path:자동매매 ",
+      "query": "tag:#자동매매  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 726322
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0.8,
-  "nodeSizeMultiplier": 1.26418863932292,
-  "lineSizeMultiplier": 3.61669108072917,
+  "nodeSizeMultiplier": 2.54720865885417,
+  "lineSizeMultiplier": 2.56056722005208,
   "collapse-forces": false,
-  "centerStrength": 0.166422526041667,
-  "repelStrength": 8.91845703125,
+  "centerStrength": 0.27197265625,
+  "repelStrength": 9.18782552083333,
   "linkStrength": 1,
-  "linkDistance": 198,
-  "scale": 0.3251113222509945,
+  "linkDistance": 221,
+  "scale": 0.4302658066516536,
   "close": false
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
-      "LiGitBranch",
-      "LiDollarSign",
-      "LiImage",
-      "TiBrandGit",
-      "TiRobot"
+      "TiDots",
+      "IbText",
+      "TiNotebook",
+      "TiCode",
+      "TiBrandPython"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,17 +27,11 @@
     "iconsInNotesEnabled": true
   },
   "수학": "TiMath",
-  "프로그래밍": "TiCode",
-  "링크 테스트.md": "RiLink",
-  "마크다운.md": "TiMarkdown",
-  "옵시디언.md": "TiNotebook",
   "Users": "IbUser",
   "프로젝트": {
     "iconName": null,
     "inheritanceIcon": "IbGithub"
   },
-  "자동매매": "IbGraphLineUp",
-  "배우기.md": "LiPencil",
   "책": "TiBooks",
   "Unix/Unix": {
     "iconName": null,
@@ -47,40 +41,61 @@
     "iconName": null,
     "inheritanceIcon": "RiComputerLine"
   },
-  "LaTex": "TiMath",
-  "LaTex/LaTeX.md": "TiMathFunction",
-  "THE BOOK/THE BOOK.md": {
-    "iconName": "LiBook",
-    "inheritanceIcon": "FasBookAtlas"
-  },
-  "THE BOOK": "RiBookOpenLine",
-  "LaTeX 기호.md": "TiMathSymbols",
   "키보드": "TiKeyboard",
   "키보드/키캡.md": "RiKeyboardLine",
-  "자동매매/AutoFreq.md": "TiRobot",
-  "Git": {
-    "iconName": "TiBrandGit",
-    "inheritanceIcon": "TiBrandGit"
-  },
   "img": "LiImage",
   "Unix": {
     "iconName": "LiDollarSign",
     "inheritanceIcon": "LiDollarSign"
   },
-  "자동매매/freqtrade": {
-    "iconName": "LiBarChart4",
-    "inheritanceIcon": "LiLineChart"
-  },
-  "자동매매/freqtrade/Freqtrade 기록": "LiDatabase",
-  "자동매매/freqtrade/고려사항.md": "TiNotes",
-  "자동매매/freqtrade/Freqtrade 기록/거래량 상위.md": "IbChartBar",
-  "자동매매/주식으로 바꾸기": "LiLineChart",
-  "Git/git flow": {
-    "iconName": "LiGitBranch",
-    "inheritanceIcon": "RiGitBranchLine"
-  },
   "Unix/00 Unix.md": {
     "iconName": "LiDollarSign",
     "inheritanceIcon": "IbEntertainment"
-  }
+  },
+  "개발": "TiCode",
+  "개발/Git": {
+    "iconName": "TiBrandGit",
+    "inheritanceIcon": "TiBrandGit"
+  },
+  "개발/Git/git flow": {
+    "iconName": "LiGitBranch",
+    "inheritanceIcon": "RiGitBranchLine"
+  },
+  "개발/Github": {
+    "iconName": "IbGithub",
+    "inheritanceIcon": "IbGithub"
+  },
+  "개발/JavaScript": {
+    "iconName": "TiBrandJavascript",
+    "inheritanceIcon": "TiBrandJavascript"
+  },
+  "개발/Python": {
+    "iconName": "TiBrandPython",
+    "inheritanceIcon": "TiBrandPython"
+  },
+  "수학/LaTex": "TiMath",
+  "수학/LaTex/LaTeX.md": "TiMathFunction",
+  "개발/자동매매": "IbGraphLineUp",
+  "개발/자동매매/AutoFreq.md": "TiRobot",
+  "개발/자동매매/freqtrade": {
+    "iconName": "LiBarChart4",
+    "inheritanceIcon": "LiLineChart"
+  },
+  "개발/자동매매/freqtrade/Freqtrade 기록": "LiDatabase",
+  "개발/자동매매/freqtrade/고려사항.md": "TiNotes",
+  "개발/자동매매/freqtrade/Freqtrade 기록/거래량 상위.md": "IbChartBar",
+  "개발/자동매매/주식으로 바꾸기": "LiLineChart",
+  "수학/THE BOOK": "RiBookOpenLine",
+  "수학/THE BOOK/THE BOOK.md": {
+    "iconName": "LiBook",
+    "inheritanceIcon": "FasBookAtlas"
+  },
+  "수학/LaTex/LaTeX 기호.md": "TiMathSymbols",
+  "Obsidian/Obsidian.md": "TiNotebook",
+  "Obsidian/링크 테스트.md": "RiLink",
+  "개발/마크다운.md": "TiMarkdown",
+  "배우기.md": "LiPencil",
+  "Obsidian": "TiNotebook",
+  "개발/문자 인코딩.md": "IbText",
+  "개발/유의적 버전(Semantic Versioning).md": "TiDots"
 }

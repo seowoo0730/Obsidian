@@ -6,15 +6,38 @@
       {
         "id": "3b82dbf9f006b10f",
         "type": "tabs",
-        "dimension": 72.73371104815864,
         "children": [
           {
-            "id": "a1ba8e61779de216",
+            "id": "2d094b43be1cc7a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/25 work flow (작업환경).md",
+                "file": "개발/자동매매/freqtrade/고려사항.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c14b27cff1778eb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unix/0 linux CRUD/0 linux CRUD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58f6f952110b05bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개발/유의적 버전(Semantic Versioning).md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "링크 테스트.md",
+                "file": "Obsidian/링크 테스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE BOOK/THE BOOK.md",
+                "file": "수학/THE BOOK/THE BOOK.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,26 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "THE BOOK/THE BOOK.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e90d1860b4fc3eb6",
-        "type": "tabs",
-        "dimension": 27.26628895184136,
-        "children": [
-          {
-            "id": "647c0c98dfd162b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/2 명령어 순서대로 실행하기/0 명령어 순서대로 실행하기.md",
+                "file": "수학/THE BOOK/THE BOOK.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unix/2 명령어 순서대로 실행하기/0 명령어 순서대로 실행하기.md",
+                "file": "개발/자동매매/freqtrade/고려사항.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unix/2 명령어 순서대로 실행하기/0 명령어 순서대로 실행하기.md",
+                "file": "개발/자동매매/freqtrade/고려사항.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Unix/2 명령어 순서대로 실행하기/0 명령어 순서대로 실행하기.md"
+                "file": "개발/자동매매/freqtrade/고려사항.md"
               }
             }
           },
@@ -248,53 +252,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "647c0c98dfd162b0",
+  "active": "2d094b43be1cc7a4",
   "lastOpenFiles": [
-    "Unix/0 linux CRUD/4 Delet.md",
-    "Unix/0 linux CRUD/3 Update.md",
-    "Unix/0 linux CRUD/2 Read.md",
-    "Unix/0 linux CRUD/1 Creat.md",
+    "개발/자동매매/freqtrade/고려사항.md",
+    "Run.md",
     "Unix/0 linux CRUD/0 linux CRUD.md",
-    "Unix/00 Unix.md",
-    "Unix/0 linux CRUD/제목 없음.md",
-    "Unix/2 명령어 순서대로 실행하기/1 ; (명령어 순서대로 실행하기).md",
-    "Unix/1 linux 폴더 구조/1 - (최상위 폴더).md",
-    "Unix/28 echo.md",
-    "Unix/25 ps aux (현재 실행되는 프로그램 보기).md",
-    "Unix/26 IO Redirection (입력과 출력 파일에 저장, 출력).md",
-    "Unix/18 ~-.zshrc (콘솔 수정파일).md",
-    "Git/00 Git.md",
-    "Git/25 work flow (작업환경).md",
-    "Git/19 clone.md",
-    "Git/git flow/git flow.md",
-    "Git/git flow/git flow(프로그램).md",
-    "Git/06 log.md",
-    "마크다운.md",
-    "Git/23 stash.md",
-    "Git/07 revert.md",
-    "Git/12 rebase.md",
-    "Git/15 push.md",
-    "Git/08 reset.md",
-    "img/Untitled 6.png",
-    "책/Data view.md",
-    "Unix/3 패키지 매니저 (apt-get, apt-cache, sudo apt)",
-    "Unix/2 명령어 순서대로 실행하기",
-    "Unix/1 linux 폴더 구조",
-    "Unix/0 linux CRUD",
-    "Unix",
-    "Unix",
-    "img/Untitled.png",
-    "img/Untitled 8.png",
-    "img/Untitled 7.png",
-    "img",
-    "img/Untitled 2.png",
-    "img/Untitled 5.png",
-    "img/Untitled 4.png",
-    "img/Untitled 3.png",
-    "Git/git flow/git flow(프로그램)",
-    "Git/work flow (작업환경)",
-    "Git/git flow",
-    "Users/seowoo0730/Downloads/icons/tabler-icons/Notebook.svg",
+    "제목 없음.md",
+    "개발/디자인 패턴/디자인 패턴.md",
+    "키보드/키캡.md",
+    "키보드/고려사항.md",
+    "키보드/팜레스트.md",
+    "배우기.md",
+    "개발/자동매매/AutoFreq.md",
+    "개발/유의적 버전(Semantic Versioning).md",
+    "개발/SSH.md",
+    "Lg Ai Youth Camp.md",
+    "Obsidian/Obsidian.md",
+    "Obsidian/링크 테스트.md",
+    "Obsidian",
+    "개발/마크다운.md",
+    "수학/LaTex/LaTeX.md",
+    "수학/LaTex/LaTeX 기호.md",
+    "수학/THE BOOK/THE BOOK.md",
+    "수학/THE BOOK/요구사항.md",
+    "개발/API/API.md",
+    "개발/API",
+    "개발/디자인 패턴",
+    "개발/문자 인코딩.md",
+    "개발/HTTP 완벽가이드/HTTP.md",
+    "개발/HTTP 완벽가이드",
+    "개발",
+    "개발/Github/0 Github.md",
+    "개발/Github/issue/issue.md",
+    "개발/Git/00 Git.md",
+    "img/Untitled 1.png",
+    "img/Untitled 2 3 2.png",
+    "img/Untitled 1 2 2.png",
+    "img/Untitled 3 5.png",
+    "img/Untitled 2 2 2.png",
+    "img/Untitled 1 8.png",
+    "img/Untitled 2 8.png",
+    "img/Untitled 14.png",
+    "Python/함수(def)/화살표 함수(arrow function)",
+    "개발/Python/4 예외 처리",
+    "개발/Python/3 파일 입-출력",
+    "개발/Python/2 연산자",
+    "개발/Python/1 함수(def)",
+    "img/Untitled 13.png",
+    "img/Untitled 10 1.png",
     "Untitled.canvas",
     "Brain/Untitled.canvas"
   ]

@@ -4,4 +4,3 @@
 |[[2 Read]]|editor, cat, ls|ls|
 |[[3 Update]]|editor, mv|mv|
 |[[4 Delet]]|rm|rm|
-|[[제목 없음]]|||

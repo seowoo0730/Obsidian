@@ -33,10 +33,10 @@ apt는 조금더 apt-get이나 apt-cache보다 조금더 Gui에 가깝고 예쁘
 
 굳이 apt-get이나 apt -cache를 쓸 이유가 없다면 apt를 사용하자 apt-get기준으로 사전을 정리하지만 뒤에 tip) apt로 apt로 사용법도 적어 놓겠다
 
-[[3 upgrade (패키지 업그래이드)]]
+[[1 downlaod (install)하는법]]
 
 [[2 update (패키지 업데이트)]]
 
-[[1 downlaod (install)하는법]]
+[[3 upgrade (패키지 업그래이드)]]
 
 [[4 search (설치할수 있는 프로그램 검색)]]

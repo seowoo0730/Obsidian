@@ -1,4 +1,4 @@
-- [ ] Haskell
+- [ ] Python
 - [ ] 프로그래밍 공부
 - [ ] 구조 설계
 - [ ] REST API
@@ -18,10 +18,9 @@
 	2. Dryrun 실행
 	4. 수익, 거래 횟수 가져오기(REST API)
 	5. 상위 전략 선정
-3. 2차 Dryrun
-	7. PairList 종류별 파일 생성
-	8. Dryrun 실행
-	9. 수익, 거래 횟수 가져오기
-	5. 상위 전략 선정
+3. Hyperopt
+	1. roi
+	2. stoploss
+	3. trailing stoploss
 4. 실거래 실행
 #자동매매

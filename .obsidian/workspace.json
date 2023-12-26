@@ -11,8 +11,12 @@
             "id": "2d094b43be1cc7a4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "개발/자동매매/freqtrade/명령어 저장.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -153,6 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "개발/자동매매/freqtrade/명령어 저장.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,6 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "개발/자동매매/freqtrade/명령어 저장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +196,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "개발/자동매매/freqtrade/명령어 저장.md"
+              }
             }
           },
           {
@@ -246,6 +254,7 @@
   },
   "active": "2d094b43be1cc7a4",
   "lastOpenFiles": [
+    "개발/자동매매/freqtrade/freqtrade.md",
     "개발/자동매매/freqtrade/명령어 저장.md",
     "개발/Haskell/Haskell.md",
     "개발/자동매매/AutoFreq.md",
@@ -275,7 +284,6 @@
     "개발/API",
     "개발/디자인 패턴",
     "개발/문자 인코딩.md",
-    "개발/HTTP 완벽가이드/HTTP.md",
     "개발/HTTP 완벽가이드",
     "개발",
     "img/Untitled 1.png",

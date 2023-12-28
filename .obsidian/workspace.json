@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/자동매매/freqtrade/명령어 저장.md",
+                "file": "배우기.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "주석",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/자동매매/freqtrade/명령어 저장.md",
+                "file": "개발/자동매매/AutoFreq.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/자동매매/freqtrade/명령어 저장.md",
+                "file": "개발/자동매매/AutoFreq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/자동매매/freqtrade/명령어 저장.md"
+                "file": "개발/자동매매/AutoFreq.md"
               }
             }
           },
@@ -265,10 +266,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "641c869a3fce4f82",
+  "active": "a2deceec3c9f9540",
   "lastOpenFiles": [
-    "개발/자동매매/freqtrade/고려사항.md",
     "개발/자동매매/freqtrade/명령어 저장.md",
+    "개발/자동매매/freqtrade/고려사항.md",
     "개발/자동매매/freqtrade/freqtrade.md",
     "개발/Haskell/Haskell.md",
     "개발/자동매매/AutoFreq.md",

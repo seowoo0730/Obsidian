@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/자동매매/AutoFreq.md",
+                "file": "배우기.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/자동매매/AutoFreq.md",
+                "file": "배우기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/자동매매/AutoFreq.md"
+                "file": "배우기.md"
               }
             }
           },
@@ -266,13 +266,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a2deceec3c9f9540",
+  "active": "641c869a3fce4f82",
   "lastOpenFiles": [
+    "개발/자동매매/AutoFreq.md",
     "개발/자동매매/freqtrade/명령어 저장.md",
     "개발/자동매매/freqtrade/고려사항.md",
     "개발/자동매매/freqtrade/freqtrade.md",
     "개발/Haskell/Haskell.md",
-    "개발/자동매매/AutoFreq.md",
     "개발/디자인 패턴/디자인 패턴.md",
     "배우기.md",
     "개발/Haskell",

@@ -1,0 +1,95 @@
+`class`는 **반복**되**는 메서드(함수), 변수를 모아**두는 것이다
+
+```JavaScript
+class User {
+  constructor(name, age) {
+    this.name = name;
+    this.age = age;
+  }
+  introduce() {
+    console.log(this.name + this.age);
+  }
+}
+
+let mike = new User(`Mike`, 14);
+console.log(mike); //User {name: 'Mike', age: 14}
+mike.introduce(); //Mike14
+```
+
+## 상속
+
+### `extends`
+
+```JavaScript
+class User {
+  constructor(name, age) {
+    this.name = name;
+    this.age = age;
+  }
+  introduce() {
+    console.log(this.name + this.age);
+  }
+}
+
+class Student extends User {
+  age = 14;
+}
+let mike = new Student(`Mike`);
+console.log(mike); //Student {name: 'Mike', age: 14}
+mike.introduce(); //Mike14
+```
+
+## **메소드 오버라이딩**
+
+### `super`
+
+부모 메소드 사용
+
+```JavaScript
+class User {
+  constructor(name, age) {
+    this.name = name;
+    this.age = age;
+  }
+  introduce() {
+    console.log(this.name + this.age);
+  }
+}
+
+class Student extends User {
+  age = 14;
+  introduce() {
+    super.introduce();
+    console.log(`학생`);
+  }
+}
+let mike = new Student(`Mike`);
+console.log(mike); //Student {name: 'Mike', age: 14}
+mike.introduce();
+//Mike14
+//학생
+```
+
+## `get`, `set`
+
+```JavaScript
+class User {
+  constructor(name, age) {
+    this.name = name;
+    this.age = age;
+  }
+
+  get age() {
+    return this._age;
+  }
+
+  set age(value) {
+    if (value < 0) {
+      this._age = value = 0;
+    }
+  }
+}
+
+const user1 = new User('seo', -1);
+console.log(user1.age); //0
+```

@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d094b43be1cc7a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개발/자동매매/AutoFreq.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "641c869a3fce4f82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개발/자동매매/freqtrade/명령어 저장.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c14b27cff1778eb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unix/0 linux CRUD/0 linux CRUD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58f6f952110b05bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개발/유의적 버전(Semantic Versioning).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2688e7a80f938198",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "책/Data view.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6cdf6a94d323d393",
             "type": "leaf",
             "state": {
@@ -103,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +73,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -170,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/자동매매/freqtrade/명령어 저장.md",
+                "file": "Obsidian/링크 테스트.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -187,9 +126,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/자동매매/freqtrade/명령어 저장.md",
+                "file": "Obsidian/링크 테스트.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -210,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/자동매매/freqtrade/명령어 저장.md"
+                "file": "Obsidian/링크 테스트.md"
               }
             }
           },
@@ -247,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -265,54 +204,54 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "641c869a3fce4f82",
+  "active": "40d8773fe00931f2",
   "lastOpenFiles": [
-    "배우기.md",
-    "개발/자동매매/AutoFreq.md",
-    "개발/자동매매/freqtrade/명령어 저장.md",
-    "개발/자동매매/freqtrade/고려사항.md",
-    "개발/자동매매/freqtrade/freqtrade.md",
-    "개발/Haskell/Haskell.md",
-    "개발/디자인 패턴/디자인 패턴.md",
-    "개발/Haskell",
-    "개발/JavaScript/11 promise.md",
-    "Run.md",
-    "Unix/0 linux CRUD/0 linux CRUD.md",
-    "제목 없음.md",
-    "키보드/키캡.md",
-    "키보드/고려사항.md",
-    "키보드/팜레스트.md",
-    "개발/유의적 버전(Semantic Versioning).md",
-    "개발/SSH.md",
-    "Lg Ai Youth Camp.md",
-    "Obsidian/Obsidian.md",
-    "Obsidian/링크 테스트.md",
-    "Obsidian",
-    "개발/마크다운.md",
-    "수학/LaTex/LaTeX.md",
-    "수학/LaTex/LaTeX 기호.md",
-    "수학/THE BOOK/THE BOOK.md",
-    "수학/THE BOOK/요구사항.md",
-    "개발/API/API.md",
-    "개발/API",
-    "개발/디자인 패턴",
-    "개발/문자 인코딩.md",
-    "개발/HTTP 완벽가이드",
-    "개발",
-    "img/Untitled 1.png",
-    "img/Untitled 2 3 2.png",
-    "img/Untitled 1 2 2.png",
-    "img/Untitled 3 5.png",
-    "img/Untitled 2 2 2.png",
-    "img/Untitled 1 8.png",
-    "img/Untitled 2 8.png",
-    "img/Untitled 14.png",
-    "Python/함수(def)/화살표 함수(arrow function)",
-    "개발/Python/4 예외 처리",
-    "개발/Python/3 파일 입-출력",
-    "개발/Python/2 연산자",
-    "img/Untitled 13.png",
-    "img/Untitled 10 1.png",
+    "개발/Python/함수(def)/화살표 함수(arrow function)/화살표 함수(arrow function).md",
+    "개발/Python/함수(def)/화살표 함수(arrow function)",
+    "개발/Python/함수(def)/함수(def).md",
+    "개발/Python/함수(def)/문자열 처리 함수.md",
+    "개발/Python/파일 입-출력/파일 입-출력.md",
+    "개발/Python/함수(def)/랜덤 함수.md",
+    "개발/Python/파일 입-출력/pickle.md",
+    "개발/Python/자료형(DataType)/자료형(DataType).md",
+    "개발/Python/자료형(DataType)/숫자형(number).md",
+    "개발/Python/자료형(DataType)/문자열형(string).md",
+    "개발/Python/연산자/연산자.md",
+    "개발/Python/예외 처리/오류 발생시키기.md",
+    "개발/Python/예외 처리/예외 처리.md",
+    "개발/Python/연산자/산술 연산자.md",
+    "개발/Python/연산자/비교 연산자.md",
+    "개발/Python/img/Untitled.png",
+    "개발/Python/img/Untitled 1 2.png",
+    "개발/Python/img/Untitled 3.png",
+    "개발/Python/img/Untitled 2 3.png",
+    "개발/Python/img/Untitled 2.png",
+    "개발/Python/img/Untitled 2 2.png",
+    "개발/Python/img/Untitled 1.png",
+    "개발/Python/함수(def)",
+    "개발/Python/표준 입-출력.md",
+    "개발/Python/패키지(Packages).md",
+    "개발/Python/파일 입-출력",
+    "개발/Python/튜플(tuple).md",
+    "개발/Python/집합(set).md",
+    "개발/Python/조건문(switch).md",
+    "개발/Python/조건문(if, else, elif).md",
+    "개발/Python/자료형(DataType)",
+    "개발/Python/예외 처리",
+    "개발/Python/연산자",
+    "개발/Python/변수.md",
+    "개발/Python/반복문(while).md",
+    "개발/Python/반복문(for).md",
+    "개발/Python/모듈(Module).md",
+    "개발/Python/리스트(List).md",
+    "개발/Python/딕셔너리(Dictionary).md",
+    "개발/Python/img",
+    "개발/Python",
+    "개발/Github/pull request/충돌 해결하기",
+    "개발/Github/pull request/pull request 확인하기",
+    "개발/Github/img/Untitled.png",
+    "개발/Github/img/Untitled 9.png",
+    "개발/Github/img/Untitled 8.png",
     "Untitled.canvas",
     "Brain/Untitled.canvas"
   ]

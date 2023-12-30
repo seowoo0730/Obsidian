@@ -1,6 +1,6 @@
 **git flow란 브랜치를 사용하는 방법의 사례 또는 사례를 쉽게 운영할 수 있는** [[git flow(프로그램)]]을 이다
 
-![[Untitled 6 1.png|Untitled 6 1.png]]
+![[Untitled 6.png|Untitled 6.png]]
 
 ### master과 develop을 제외한 모든 커밋은 병합 후 삭제해야 한다
 

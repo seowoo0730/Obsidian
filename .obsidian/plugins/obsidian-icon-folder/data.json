@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
+      "TiBrandGit",
       "TiDots",
       "IbText",
       "TiNotebook",
-      "TiCode",
-      "TiBrandPython"
+      "TiCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -43,7 +43,6 @@
   },
   "키보드": "TiKeyboard",
   "키보드/키캡.md": "RiKeyboardLine",
-  "img": "LiImage",
   "Unix": {
     "iconName": "LiDollarSign",
     "inheritanceIcon": "LiDollarSign"
@@ -54,23 +53,23 @@
   },
   "개발": "TiCode",
   "개발/Git": {
-    "iconName": "TiBrandGit",
+    "iconName": null,
     "inheritanceIcon": "TiBrandGit"
   },
   "개발/Git/git flow": {
-    "iconName": "LiGitBranch",
+    "iconName": null,
     "inheritanceIcon": "RiGitBranchLine"
   },
   "개발/Github": {
-    "iconName": "IbGithub",
+    "iconName": null,
     "inheritanceIcon": "IbGithub"
   },
   "개발/JavaScript": {
-    "iconName": "TiBrandJavascript",
+    "iconName": null,
     "inheritanceIcon": "TiBrandJavascript"
   },
   "개발/Python": {
-    "iconName": "TiBrandPython",
+    "iconName": null,
     "inheritanceIcon": "TiBrandPython"
   },
   "수학/LaTex": "TiMath",

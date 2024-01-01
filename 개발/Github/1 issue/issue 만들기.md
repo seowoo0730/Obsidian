@@ -1,6 +1,6 @@
 **issue**를 만들려면 issue 탭에서
 
-![[Python/5 img/Untitled.png]]
+![[개발/Python/5 img/Untitled.png]]
 
 **New issue**를 클릭 후
 

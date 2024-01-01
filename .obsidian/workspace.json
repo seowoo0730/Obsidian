@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/11 class(클래스).md",
+                "file": "개발/Python/11 class(클래스).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/자동매매/AutoFreq.md",
+                "file": "개발/Python/03 딕셔너리(Dictionary).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/자동매매/AutoFreq.md",
+                "file": "개발/Python/03 딕셔너리(Dictionary).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/자동매매/AutoFreq.md",
+                "file": "개발/Python/03 딕셔너리(Dictionary).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/자동매매/AutoFreq.md"
+                "file": "개발/Python/03 딕셔너리(Dictionary).md"
               }
             }
           },
@@ -207,32 +207,32 @@
   },
   "active": "6cdf6a94d323d393",
   "lastOpenFiles": [
-    "개발/마크다운.md",
+    "개발/Python/02 리스트(List).md",
+    "개발/JavaScript/00 Python.md",
+    "개발/Python/01 변수.md",
+    "개발/Python/Python.md",
     "개발/자동매매/AutoFreq.md",
+    "개발/마크다운.md",
     "배우기.md",
     "개발/Git/00 Git.md",
     "개발/Git/25 work flow (작업환경).md",
-    "Python/4 예외 처리/예외 처리.md",
-    "Python/3 파일 입-출력/파일 입-출력.md",
-    "Python/2 연산자/0 연산자.md",
-    "Python/1 함수(def)/0 함수(def).md",
-    "Python/0 자료형(DataType)/0 자료형(DataType).md",
+    "개발/Python/4 예외 처리/예외 처리.md",
+    "개발/Python/3 파일 입-출력/파일 입-출력.md",
+    "개발/Python/2 연산자/0 연산자.md",
+    "개발/Python/1 함수(def)/0 함수(def).md",
+    "개발/Python/0 자료형(DataType)/0 자료형(DataType).md",
     "개발/Git/git flow/git flow.md",
-    "Python/3 파일 입-출력/pickle.md",
-    "Python/1 함수(def)/1 화살표 함수(arrow function).md",
-    "Python/1 함수(def)/2 랜덤 함수.md",
-    "Python/0 자료형(DataType)/1 문자열형(string).md",
+    "개발/Python/3 파일 입-출력/pickle.md",
+    "개발/Python/1 함수(def)/1 화살표 함수(arrow function).md",
+    "개발/Python/1 함수(def)/2 랜덤 함수.md",
+    "개발/Python/0 자료형(DataType)/1 문자열형(string).md",
     "개발/Github/1 issue/issue.md",
     "개발/Github/1 github 저장소 만들기.md",
     "개발/Github/0 Github.md",
     "개발/Github/1 issue/issue 확인하기.md",
     "개발/Github/1 issue/issue 만들기.md",
     "개발/Github/0 pull request/0 pull request.md",
-    "Python/00 Python.md",
-    "Python/11 class(클래스).md",
-    "수학/THE BOOK/THE BOOK.md",
-    "Python/10 표준 입-출력.md",
-    "개발/JavaScript/상속.md",
+    "개발/Python/11 class(클래스).md",
     "개발/JavaScript/img/Untitled.png",
     "개발/JavaScript/img/Untitled 9.png",
     "개발/JavaScript/img/Untitled 8.png",

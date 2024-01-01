@@ -66,7 +66,7 @@ git branch -a
 
 를 하면 된다
 
-작동을 하려면 [[fetch]]를 해야 한다
+작동을 하려면 [[17 fetch]]를 해야 한다
 
 ```Bash
 git fetch

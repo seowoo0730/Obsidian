@@ -92,53 +92,53 @@ git add a*
 
 이건 .gitignore을 작성할 때도 쓰인다
 
-[[config]]
+[[01 config]]
 
-[[init]]
+[[02 init]]
 
-[[add]]
+[[03 add]]
 
-[[status]]
+[[04 status]]
 
-[[commit]]
+[[05 commit]]
 
-[[log]]
+[[06 log]]
 
-[[revert]]
+[[07 revert]]
 
-[[reset]]
+[[08 reset]]
 
-[[checkout (이동)]]
+[[09 checkout (이동)]]
 
-[[branch (브랜치)]]
+[[10 branch (브랜치)]]
 
-[[merge (브랜치 병합)]]
+[[11 merge (브랜치 병합)]]
 
-[[rebase]]
+[[12 rebase]]
 
-[[remote (저장소)]]
+[[13 remote (저장소)]]
 
-[[원격 저장소 연결하기]]
+[[14 원격 저장소 연결하기]]
 
-[[push]]
+[[15 push]]
 
-[[pull]]
+[[16 pull]]
 
-[[fetch]]
+[[17 fetch]]
 
-[[gitignore]]
+[[18 gitignore]]
 
-[[clone]]
+[[19 clone]]
 
-[[rm]]
+[[20 rm]]
 
-[[diff]]
+[[21 diff]]
 
-[[cherry-pick]]
+[[22 cherry-pick]]
 
-[[stash]]
+[[23 stash]]
 
-[[tag]]
+[[24 tag]]
 
 [[git flow]]
 

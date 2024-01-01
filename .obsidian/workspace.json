@@ -6,7 +6,7 @@
       {
         "id": "3b82dbf9f006b10f",
         "type": "tabs",
-        "dimension": 76.93726937269373,
+        "dimension": 74.2619926199262,
         "children": [
           {
             "id": "f9ea29feab8217e9",
@@ -37,7 +37,7 @@
       {
         "id": "bfed26773bbdcf63",
         "type": "tabs",
-        "dimension": 23.062730627306273,
+        "dimension": 25.738007380073803,
         "children": [
           {
             "id": "6cdf6a94d323d393",
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/Git/Git.md",
+                "file": "개발/Github/issue/issue.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/Git/Git.md",
+                "file": "개발/Github/issue/issue.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/Git/Git.md",
+                "file": "개발/Github/issue/issue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/Git/Git.md"
+                "file": "개발/Github/issue/issue.md"
               }
             }
           },
@@ -212,8 +212,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6cdf6a94d323d393",
+  "active": "40d8773fe00931f2",
   "lastOpenFiles": [
+    "개발/Git/git flow/git flow.md",
+    "개발/Git/00 Git.md",
     "개발/Python/00 Python.md",
     "개발/Python/11 class(클래스).md",
     "수학/THE BOOK/THE BOOK.md",
@@ -258,8 +260,6 @@
     "개발/JavaScript/반복문(while).md",
     "개발/JavaScript/객체(object).md",
     "개발/JavaScript/promise.md",
-    "개발/JavaScript/node.js.md",
-    "개발/JavaScript/class.md",
     "Untitled.canvas",
     "Brain/Untitled.canvas"
   ]

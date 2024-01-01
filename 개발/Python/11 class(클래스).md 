@@ -1,6 +1,6 @@
 `class`는 **반복**되**는 메서드(함수), 변수를 모아**두는 것이다
 
-```run-python
+```Python
 class chocolate:
     def __init__(self, shape, material):
         self.shape = shape
@@ -20,7 +20,7 @@ chocolate_milk = chocolate('네모난', '밀크')
 
 **다른 클래스의 변수를 사용**하게 해준다
 
-```run-python
+```Python
 class Country:
     name = '국가명'
     population = '인구'

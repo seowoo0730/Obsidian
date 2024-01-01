@@ -1,13 +1,13 @@
 ### `sep`
 
-```run-python
+```Python
 print('Python', 'Java', 'JavaScript', sep=' vs ')
 # Python vs Java vs JavaScript
 ```
 
 ### `end`
 
-```run-python
+```Python
 print('Python', 'Java', 'JavaScript', sep=' vs ', end='?')
 # Python vs Java vs JavaScript?
 ```
@@ -16,7 +16,7 @@ print('Python', 'Java', 'JavaScript', sep=' vs ', end='?')
 
 ### `sys.stdout`
 
-```run-python
+```Python
 import sys
 print('Python', 'Java', 'JavaScript', file=sys.stdout)
 # Python Java JavaScript
@@ -24,7 +24,7 @@ print('Python', 'Java', 'JavaScript', file=sys.stdout)
 
 ### `sys.stderr` 표준 에러
 
-```run-python
+```Python
 import sys
 print('Python', 'Java', 'JavaScript', file=sys.stderr)
 # Python Java JavaScript
@@ -34,7 +34,7 @@ print('Python', 'Java', 'JavaScript', file=sys.stderr)
 
 ## 정렬
 
-```run-python
+```Python
 student1 = {'korean_score': 95,
             'math_score': 100,
             'english_score': 90}
@@ -48,7 +48,7 @@ for subject, score in student1.items():
 
 ### `zfill`
 
-```run-python
+```Python
 from os import sep
 
 
@@ -65,7 +65,7 @@ for num in range(1, 6):
 
 ### `input` 입력
 
-```run-python
+```Python
 answer = input("아무거나 입력해 보세요: ")
 print('결과: {0}'.format(answer))
 # 아무거나 입력해 보세요: (입력)

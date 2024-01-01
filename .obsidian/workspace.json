@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/Python/03 딕셔너리(Dictionary).md",
+                "file": "개발/Python/07 반복문(for).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/Python/03 딕셔너리(Dictionary).md",
+                "file": "개발/Python/07 반복문(for).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/Python/03 딕셔너리(Dictionary).md",
+                "file": "개발/Python/07 반복문(for).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/Python/03 딕셔너리(Dictionary).md"
+                "file": "개발/Python/07 반복문(for).md"
               }
             }
           },
@@ -208,7 +208,21 @@
   "active": "6cdf6a94d323d393",
   "lastOpenFiles": [
     "개발/Python/02 리스트(List).md",
-    "개발/JavaScript/00 Python.md",
+    "개발/Python/00 Python.md",
+    "개발/Python/03 딕셔너리(Dictionary).md",
+    "개발/Python/04 조건문(if, else, elif).md",
+    "개발/Python/06 반복문(while).md",
+    "개발/JavaScript/객체(object).md",
+    "개발/Python/Python.md ",
+    "개발/Python/14 Django.md ",
+    "개발/Python/13 패키지(Packages).md ",
+    "개발/Python/12 모듈(Module).md ",
+    "개발/Python/11 class(클래스).md ",
+    "개발/Python/10 표준 입-출력.md ",
+    "개발/Python/09 집합(set).md ",
+    "개발/Python/08 튜플(tuple).md ",
+    "개발/Python/07 반복문(for).md ",
+    "개발/Python/06 반복문(while).md ",
     "개발/Python/01 변수.md",
     "개발/Python/Python.md",
     "개발/자동매매/AutoFreq.md",
@@ -229,10 +243,6 @@
     "개발/Github/1 issue/issue.md",
     "개발/Github/1 github 저장소 만들기.md",
     "개발/Github/0 Github.md",
-    "개발/Github/1 issue/issue 확인하기.md",
-    "개발/Github/1 issue/issue 만들기.md",
-    "개발/Github/0 pull request/0 pull request.md",
-    "개발/Python/11 class(클래스).md",
     "개발/JavaScript/img/Untitled.png",
     "개발/JavaScript/img/Untitled 9.png",
     "개발/JavaScript/img/Untitled 8.png",
@@ -243,16 +253,6 @@
     "개발/JavaScript/img/Untitled 3.png",
     "개발/JavaScript/img/Untitled 3 2.png",
     "개발/JavaScript/img/Untitled 2.png",
-    "개발/JavaScript/img",
-    "개발/JavaScript/함수(function)/화살표 함수(arrow function)",
-    "개발/JavaScript/자료형(DataType)/문자열형(string)",
-    "개발/JavaScript/연산자/비교 연산자",
-    "개발/JavaScript/함수(function)",
-    "개발/JavaScript/템플릿 문자열(template literal)",
-    "개발/JavaScript/자료형(DataType)",
-    "개발/JavaScript/연산자",
-    "개발/JavaScript/변수",
-    "개발/JavaScript/배열(array)",
     "Untitled.canvas",
     "Brain/Untitled.canvas"
   ]

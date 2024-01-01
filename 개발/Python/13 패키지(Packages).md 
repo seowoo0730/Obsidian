@@ -1,4 +1,4 @@
-```run-python
+```Python
 import packages.echo
 packages.echo.echo_test()
 # echo
@@ -6,12 +6,12 @@ packages.echo.echo_test()
 
 ## `__all__`
 
-```run-python
+```Python
 # __init__.py
 __all__ = ['echo']
 ```
 
-```run-python
+```Python
 from packages import *
 from packages.echo import echo_test
 echo_test()

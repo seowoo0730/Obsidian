@@ -2,7 +2,7 @@
 
 **조건이 참**이면 **중괄호 안의 코드를 실행**한다
 
-```run-python
+```Python
 if 10 < 20:
     print('10은 20보다 작다.')  # 10은 20보다 작다.
 ```
@@ -11,7 +11,7 @@ if 10 < 20:
 
 **위에 조건이 거짓이고 조건이 참이면 중괄호 안의 코드를 실행**한다
 
-```run-python
+```Python
 if 10 > 20:
     print('10은 20보다 크다.')
 elif 10 < 20:
@@ -22,7 +22,7 @@ elif 10 < 20:
 
 **위에 조건이 모두 거짓이면 중괄호 안의 코드를 실행**한다
 
-```run-python
+```Python
 if 10 > 20:
     print('10은 20보다 크다.')
 elif 10 < 5:
@@ -37,7 +37,7 @@ else:
 
 **앞, 뒤 모든 조건 중 하나라도 True**라면 True
 
-```run-python
+```Python
 weather = '비'
 if weather == '눈' or '비':
     print('우산을 챙기세요.')  # 우산을 챙기세요.
@@ -47,7 +47,7 @@ if weather == '눈' or '비':
 
 **앞, 뒤 모든 조건이 True** 여야 True
 
-```run-python
+```Python
 temp = 10
 if temp <= 10 and temp <= 30:
     print('온도가 알맞습니다.')  # 온도가 알맞습니다.

@@ -1,6 +1,6 @@
 ### 모듈 만들기
 
-```run-python
+```Python
 # module.py
 def add(a, b):
     return a + b
@@ -12,7 +12,7 @@ def sub(a, b):
 
 ### 모듈 사용하기
 
-```run-python
+```Python
 # app.py
 import module
 result = module.add(1, 4)
@@ -20,7 +20,7 @@ print(result)
 # 5
 ```
 
-```run-python
+```Python
 # app.py
 import module as mod
 result = mod.add(1, 4)
@@ -30,7 +30,7 @@ print(result)
 
 ### `from module import`
 
-```run-python
+```Python
 # app.py
 from module import *
 result = '''module'''add(1, 4)
@@ -38,7 +38,7 @@ print(result)
 # 5
 ```
 
-```run-python
+```Python
 # app.py
 from module import sub
 result = sub(4, 5)

@@ -4,7 +4,7 @@
 
   
 
-![[Untitled 5.png|Untitled 5.png]]
+![[개발/Git/img/Untitled 5.png|Untitled 5.png]]
 
 ```Bash
 git clone https://~~~~~/~~~~~/~~~

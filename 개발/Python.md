@@ -1,14 +1,14 @@
 [[01 변수]]
 
-[[개발/Python/0 자료형(DataType)/자료형(DataType)]]
+[[0 자료형(DataType)]]
 
 [[02 리스트(List)]]
 
 [[03 딕셔너리(Dictionary)]]
 
-[[함수(def)]]
+[[0 함수(def)]]
 
-[[개발/Python/2 연산자/연산자]]
+[[0 연산자]]
 
 [[04 조건문(if, else, elif)]]
 

@@ -1,4 +1,4 @@
-![[Untitled 8.png|Untitled 8.png]]
+![[개발/Git/img/Untitled 8.png|Untitled 8.png]]
 
 > [!info] git-flow cheatsheet  
 > created by Daniel Kummer Tweet efficient branching using git-flow by Vincent Driessen translations: English - Castellano - Brazilian Portugues - 繁體中文(Traditional Chinese) - 简体中文(Simplified Chinese) - 日本語 - Türkçe - 한국어(Korean) - Français - Italiano - Nederlands - Русский (Russian) - Deutsch (German) - Català (Catalan) - Română (Romanian) - Ελληνικά (Greek) - Українська (Ukrainian) - Tiếng Việt (Vietnamese) - Polski - العربية - فارسی - Azərbaycanca (Azerbaijani) Bahasa Indonesia Please enable JavaScript to view the comments powered by Disqus.  

@@ -8,4 +8,4 @@
 
 굳이 이유가 없다면 Public을 사용하자
 
-![[개발/Python/5 img/Untitled.png]]
+![[Python/5 img/Untitled.png]]

@@ -4,6 +4,7 @@
 - [ ] REST API
 - [ ] Git
 - [ ] Git flow
+- [ ] Github
 
 # 구조
 1. 백테스트

@@ -1,6 +1,6 @@
 walk flow는 git의 여러가지 작업환경이 있는데요.
 
-![[Untitled 7.png|Untitled 7.png]]
+![[개발/Git/img/Untitled 7.png|Untitled 7.png]]
 
 주로 이렇게 생겼다.
 

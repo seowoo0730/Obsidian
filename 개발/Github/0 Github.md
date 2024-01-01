@@ -38,12 +38,12 @@ npm, RubyGems, Maven 등 여러 패키지매니저가 Github안에 있는거다.
 > Use the tools you love Connect to your codespaces from your browser or Visual Studio Code.  
 > [https://github.com/features/codespaces](https://github.com/features/codespaces)  
 
-[[github 저장소 만들기]]
+[[1 github 저장소 만들기]]
 
-[[동업자 초대하기]]
+[[2 동업자 초대하기]]
 
-[[pull request]]
+[[0 pull request]]
 
 [[issue]]
 
-[[fork]]
+[[3 fork]]

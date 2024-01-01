@@ -68,10 +68,6 @@
     "iconName": "TiBrandJavascript",
     "inheritanceIcon": "TiBrandJavascript"
   },
-  "개발/Python": {
-    "iconName": "TiBrandPython",
-    "inheritanceIcon": "TiBrandPython"
-  },
   "수학/LaTex": "TiMath",
   "수학/LaTex/LaTeX.md": "TiMathFunction",
   "개발/자동매매": "IbGraphLineUp",
@@ -98,7 +94,6 @@
   "개발/문자 인코딩.md": "IbText",
   "개발/유의적 버전(Semantic Versioning).md": "TiDots",
   "개발/Git/git flow/git flow.md": "TiBrandGit",
-  "개발/Github/issue/issue.md": "IbGithub",
   "개발/Github/issue": {
     "iconName": null,
     "inheritanceIcon": "IbGithub"
@@ -106,5 +101,18 @@
   "개발/Github/pull request": {
     "iconName": null,
     "inheritanceIcon": "IbGithub"
+  },
+  "개발/Github/1 issue/issue.md": "IbGithub",
+  "개발/Github/0 pull request": {
+    "iconName": null,
+    "inheritanceIcon": "IbGithub"
+  },
+  "개발/Github/1 issue": {
+    "iconName": null,
+    "inheritanceIcon": "IbGithub"
+  },
+  "Python": {
+    "iconName": "TiBrandPython",
+    "inheritanceIcon": "TiBrandPython"
   }
 }

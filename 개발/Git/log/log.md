@@ -12,7 +12,7 @@ HEAD란 지금 내가 어떤 브랜치, 버전에 있는지 알려준다
 
 **HEAD가 향한 곳이 현재 위치**이다
 
-![[Untitled 2.png|Untitled 2.png]]
+![[개발/Git/img/Untitled 2.png|Untitled 2.png]]
 
 ## `--graph`
 

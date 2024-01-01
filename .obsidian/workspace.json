@@ -6,26 +6,15 @@
       {
         "id": "3b82dbf9f006b10f",
         "type": "tabs",
+        "dimension": 76.93726937269373,
         "children": [
-          {
-            "id": "6cdf6a94d323d393",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "개발/JavaScript/상속.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "f9ea29feab8217e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수학/THE BOOK/THE BOOK.md",
+                "file": "개발/Python/11 class(클래스).md",
                 "mode": "source",
                 "source": false
               }
@@ -38,6 +27,25 @@
               "type": "markdown",
               "state": {
                 "file": "수학/THE BOOK/THE BOOK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bfed26773bbdcf63",
+        "type": "tabs",
+        "dimension": 23.062730627306273,
+        "children": [
+          {
+            "id": "6cdf6a94d323d393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "개발/Git/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/JavaScript/상속.md",
+                "file": "개발/Git/Git.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/JavaScript/상속.md",
+                "file": "개발/Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/JavaScript/상속.md"
+                "file": "개발/Git/Git.md"
               }
             }
           },
@@ -206,6 +214,11 @@
   },
   "active": "6cdf6a94d323d393",
   "lastOpenFiles": [
+    "개발/Python/00 Python.md",
+    "개발/Python/11 class(클래스).md",
+    "수학/THE BOOK/THE BOOK.md",
+    "개발/Python/10 표준 입-출력.md",
+    "개발/JavaScript/상속.md",
     "Obsidian/링크 테스트.md",
     "개발/JavaScript/img/Untitled.png",
     "개발/JavaScript/img/Untitled 9.png",
@@ -240,7 +253,6 @@
     "개발/JavaScript/조건문(if, else, else if).md",
     "개발/JavaScript/자료형(DataType)",
     "개발/JavaScript/연산자",
-    "개발/JavaScript/상속.md",
     "개발/JavaScript/변수",
     "개발/JavaScript/배열(array)",
     "개발/JavaScript/반복문(while).md",
@@ -248,10 +260,6 @@
     "개발/JavaScript/promise.md",
     "개발/JavaScript/node.js.md",
     "개발/JavaScript/class.md",
-    "개발/JavaScript/call, apply, bind.md",
-    "개발/JavaScript/async, await.md",
-    "개발/JavaScript/SvelteKit.md",
-    "개발/JavaScript/JavaScript.md",
     "Untitled.canvas",
     "Brain/Untitled.canvas"
   ]

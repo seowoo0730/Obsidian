@@ -4,7 +4,7 @@
 
 git log를 해서 나온 커밋 뒤에 일련번호 앞자리 6자리를 복사 후 사용할 수 있다
 
-![[Untitled 3.png|Untitled 3.png]]
+![[개발/Git/img/Untitled 3.png|Untitled 3.png]]
 
 ```Bash
 git reset (번호) --soft

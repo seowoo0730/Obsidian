@@ -18,7 +18,7 @@ sudo apt install git
 
   
 
-![[Untitled 1.png]]
+![[개발/Git/img/Untitled 1.png]]
 
 ---
 

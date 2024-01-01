@@ -108,7 +108,7 @@ print(result1, result2, result3)  # 5 7 12
 
 ![[/Untitled.png|Untitled.png]]
 
-[[화살표 함수(arrow function)]]
+[[개발/Python/1 함수(def)/화살표 함수(arrow function)/화살표 함수(arrow function)]]
 
 [[랜덤 함수]]
 

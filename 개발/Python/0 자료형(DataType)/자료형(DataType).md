@@ -13,6 +13,6 @@ print(not False) # True
 print(not (5 < 10)) # False
 ```
 
-[[문자열형(string)]]
+[[개발/Python/0 자료형(DataType)/문자열형(string)]]
 
 [[숫자형(number)]]

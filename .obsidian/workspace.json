@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/링크 테스트.md",
+                "file": "개발/JavaScript/상속.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/링크 테스트.md",
+                "file": "개발/JavaScript/상속.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/링크 테스트.md",
+                "file": "개발/JavaScript/상속.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/링크 테스트.md"
+                "file": "개발/JavaScript/상속.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   },
   "active": "6cdf6a94d323d393",
   "lastOpenFiles": [
+    "Obsidian/링크 테스트.md",
     "개발/JavaScript/img/Untitled.png",
     "개발/JavaScript/img/Untitled 9.png",
     "개발/JavaScript/img/Untitled 8.png",
@@ -216,7 +217,6 @@
     "개발/JavaScript/img/Untitled 3.png",
     "개발/JavaScript/img/Untitled 3 2.png",
     "개발/JavaScript/img/Untitled 2.png",
-    "개발/JavaScript/img/Untitled 2 4.png",
     "개발/JavaScript/img",
     "개발/JavaScript/함수(function)/화살표 함수(arrow function)/화살표 함수(arrow function).md",
     "개발/JavaScript/자료형(DataType)/문자열형(string)/문자열형(string).md",

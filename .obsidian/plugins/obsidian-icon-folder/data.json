@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
+      "IbGithub",
+      "TiBrandPython",
+      "TiBrandJavascript",
       "TiBrandGit",
-      "TiDots",
-      "IbText",
-      "TiNotebook",
-      "TiCode"
+      "TiDots"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -53,7 +53,7 @@
   },
   "개발": "TiCode",
   "개발/Git": {
-    "iconName": null,
+    "iconName": "TiBrandGit",
     "inheritanceIcon": "TiBrandGit"
   },
   "개발/Git/git flow": {
@@ -61,15 +61,15 @@
     "inheritanceIcon": "RiGitBranchLine"
   },
   "개발/Github": {
-    "iconName": null,
+    "iconName": "IbGithub",
     "inheritanceIcon": "IbGithub"
   },
   "개발/JavaScript": {
-    "iconName": null,
+    "iconName": "TiBrandJavascript",
     "inheritanceIcon": "TiBrandJavascript"
   },
   "개발/Python": {
-    "iconName": null,
+    "iconName": "TiBrandPython",
     "inheritanceIcon": "TiBrandPython"
   },
   "수학/LaTex": "TiMath",

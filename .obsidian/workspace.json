@@ -6,6 +6,7 @@
       {
         "id": "3b82dbf9f006b10f",
         "type": "tabs",
+        "dimension": 81.54981549815497,
         "children": [
           {
             "id": "f9ea29feab8217e9",
@@ -25,26 +26,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수학/THE BOOK/THE BOOK.md",
-                "mode": "source",
+                "file": "개발/Python/0 자료형(DataType)/0 자료형(DataType).md",
+                "mode": "preview",
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0323104c06632c30",
+        "type": "tabs",
+        "dimension": 18.45018450184502,
+        "children": [
           {
             "id": "6cdf6a94d323d393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/Python/07 반복문(for).md",
+                "file": "개발/Python/00 Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/Python/07 반복문(for).md",
+                "file": "개발/Python/0 자료형(DataType)/0 자료형(DataType).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/Python/07 반복문(for).md",
+                "file": "개발/Python/0 자료형(DataType)/0 자료형(DataType).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/Python/07 반복문(for).md"
+                "file": "개발/Python/0 자료형(DataType)/0 자료형(DataType).md"
               }
             }
           },
@@ -205,8 +213,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6cdf6a94d323d393",
+  "active": "e5286b7206dc880d",
   "lastOpenFiles": [
+    "개발/Python/0 자료형(DataType)/1 문자열형(string).md",
+    "개발/Python/0 자료형(DataType)/0 자료형(DataType).md",
+    "개발/Python/02 리스트(List).md",
+    "개발/Python/01 변수.md",
+    "개발/Python/00 Python.md",
+    "수학/THE BOOK/THE BOOK.md",
+    "개발/Python/04 조건문(if, else, elif).md",
+    "개발/Python/07 반복문(for).md",
     "개발/JavaScript/반복문(while).md ",
     "개발/JavaScript/조건문(switch).md ",
     "개발/JavaScript/조건문(if, else, else if).md ",
@@ -217,14 +233,9 @@
     "개발/JavaScript/class.md ",
     "개발/JavaScript/call, apply, bind.md ",
     "개발/JavaScript/async, await.md ",
-    "개발/JavaScript/SvelteKit.md ",
-    "개발/Python/02 리스트(List).md",
-    "개발/Python/00 Python.md",
     "개발/Python/03 딕셔너리(Dictionary).md",
-    "개발/Python/04 조건문(if, else, elif).md",
     "개발/Python/06 반복문(while).md",
     "개발/JavaScript/객체(object).md",
-    "개발/Python/01 변수.md",
     "개발/Python/Python.md",
     "개발/자동매매/AutoFreq.md",
     "개발/마크다운.md",
@@ -235,14 +246,11 @@
     "개발/Python/3 파일 입-출력/파일 입-출력.md",
     "개발/Python/2 연산자/0 연산자.md",
     "개발/Python/1 함수(def)/0 함수(def).md",
-    "개발/Python/0 자료형(DataType)/0 자료형(DataType).md",
     "개발/Git/git flow/git flow.md",
     "개발/Python/3 파일 입-출력/pickle.md",
     "개발/Python/1 함수(def)/1 화살표 함수(arrow function).md",
     "개발/Python/1 함수(def)/2 랜덤 함수.md",
-    "개발/Python/0 자료형(DataType)/1 문자열형(string).md",
     "개발/Github/1 issue/issue.md",
-    "개발/Github/1 github 저장소 만들기.md",
     "개발/JavaScript/img/Untitled.png",
     "개발/JavaScript/img/Untitled 9.png",
     "개발/JavaScript/img/Untitled 8.png",

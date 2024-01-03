@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2학년 겨울 방학.md",
+                "file": "개발/Git/12 rebase.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2학년 겨울 방학.md",
+                "file": "개발/Git/12 rebase.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2학년 겨울 방학.md",
+                "file": "개발/Git/12 rebase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2학년 겨울 방학.md"
+                "file": "개발/Git/12 rebase.md"
               }
             }
           },
@@ -207,8 +207,15 @@
   },
   "active": "afd6e8e326f578d7",
   "lastOpenFiles": [
-    "수학/THE BOOK/THE BOOK.md",
+    "개발/Git/07 revert.md",
+    "개발/Git/03 add.md",
+    "개발/Git/05 commit.md",
+    "개발/Git/00 Git.md",
+    "개발/Git/06 log.md",
+    "개발/Git/01 config.md",
+    "개발/Git/git flow/git flow(프로그램).md",
     "2학년 겨울 방학.md",
+    "수학/THE BOOK/THE BOOK.md",
     "개발/자동매매/AutoFreq.md",
     "책/책.md",
     "책/Untitled.md",
@@ -217,7 +224,6 @@
     "개발/Haskell/Haskell.md",
     "개발/Python/12 모듈(Module).md",
     "개발/Git/19 clone.md",
-    "개발/Git/00 Git.md",
     "개발/Python/0 자료형(DataType)/0 자료형(DataType).md",
     "개발/Python/0 자료형(DataType)/1 문자열형(string).md",
     "개발/Python/02 리스트(List).md",
@@ -237,12 +243,6 @@
     "개발/JavaScript/async, await.md ",
     "개발/Python/03 딕셔너리(Dictionary).md",
     "개발/Python/06 반복문(while).md",
-    "개발/JavaScript/객체(object).md",
-    "개발/Python/Python.md",
-    "개발/마크다운.md",
-    "개발/Git/25 work flow (작업환경).md",
-    "개발/Python/4 예외 처리/예외 처리.md",
-    "개발/Python/3 파일 입-출력/파일 입-출력.md",
     "개발/JavaScript/img/Untitled.png",
     "개발/JavaScript/img/Untitled 9.png",
     "개발/JavaScript/img/Untitled 8.png",

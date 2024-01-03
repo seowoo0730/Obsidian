@@ -19,7 +19,7 @@ HEAD란 지금 내가 어떤 브랜치, 버전에 있는지 알려준다
 **시각화된 log**를 보여준다
 
 ```Bash
-git log --grag
+git log --graph 
 ```
 
 ## `-- all`

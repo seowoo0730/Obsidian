@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
+      "TiTex",
       "LiSnowflake",
       "IbGithub",
       "TiBrandPython",
-      "TiBrandJavascript",
-      "TiBrandGit"
+      "TiBrandJavascript"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -115,5 +115,6 @@
     "iconName": "TiBrandPython",
     "inheritanceIcon": "TiBrandPython"
   },
-  "2학년 겨울 방학.md": "LiSnowflake"
+  "2학년 겨울 방학.md": "LiSnowflake",
+  "수학/LaTex/LaTeX + Vim.md": "TiTex"
 }

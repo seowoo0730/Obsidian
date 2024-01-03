@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2학년 겨울 방학.md",
+                "file": "배우기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fa1c4e174fbeea85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "수학/LaTex/LaTeX + Vim.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2학년 겨울 방학.md",
+                "file": "수학/LaTex/LaTeX + Vim.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2학년 겨울 방학.md",
+                "file": "수학/LaTex/LaTeX + Vim.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2학년 겨울 방학.md"
+                "file": "수학/LaTex/LaTeX + Vim.md"
               }
             }
           },
@@ -205,11 +217,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "afd6e8e326f578d7",
+  "active": "fa1c4e174fbeea85",
   "lastOpenFiles": [
+    "수학/LaTex/LaTeX.md",
+    "책/쉽게 읽는 페르마의 마지막 정리.md",
+    "수학/LaTex/LaTeX + Vim.md",
+    "배우기.md",
+    "2학년 겨울 방학.md",
+    "개발/문자 인코딩.md",
+    "개발/유의적 버전(Semantic Versioning).md",
+    "개발/자동매매/freqtrade/고려사항.md",
     "개발/Github/0 Github.md",
     "개발/Git/00 Git.md",
-    "2학년 겨울 방학.md",
     "Git.md",
     "수학/THE BOOK/THE BOOK.md",
     "개발/Git/git flow/git flow(프로그램).md",
@@ -222,17 +241,10 @@
     "개발/자동매매/AutoFreq.md",
     "책/책.md",
     "책/Untitled.md",
-    "배우기.md",
     "Lg Ai Youth Camp.md",
     "개발/Haskell/Haskell.md",
     "개발/Python/12 모듈(Module).md",
     "개발/Git/19 clone.md",
-    "개발/Python/0 자료형(DataType)/0 자료형(DataType).md",
-    "개발/Python/0 자료형(DataType)/1 문자열형(string).md",
-    "개발/Python/02 리스트(List).md",
-    "개발/Python/01 변수.md",
-    "개발/Python/00 Python.md",
-    "개발/Python/04 조건문(if, else, elif).md",
     "개발/JavaScript/반복문(while).md ",
     "개발/JavaScript/조건문(switch).md ",
     "개발/JavaScript/조건문(if, else, else if).md ",

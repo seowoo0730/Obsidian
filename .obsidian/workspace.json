@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/Git/12 rebase.md",
+                "file": "2학년 겨울 방학.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/Git/12 rebase.md",
+                "file": "2학년 겨울 방학.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/Git/12 rebase.md",
+                "file": "2학년 겨울 방학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/Git/12 rebase.md"
+                "file": "2학년 겨울 방학.md"
               }
             }
           },
@@ -207,15 +207,18 @@
   },
   "active": "afd6e8e326f578d7",
   "lastOpenFiles": [
+    "개발/Github/0 Github.md",
+    "개발/Git/00 Git.md",
+    "2학년 겨울 방학.md",
+    "Git.md",
+    "수학/THE BOOK/THE BOOK.md",
+    "개발/Git/git flow/git flow(프로그램).md",
+    "개발/Git/12 rebase.md",
     "개발/Git/07 revert.md",
     "개발/Git/03 add.md",
     "개발/Git/05 commit.md",
-    "개발/Git/00 Git.md",
     "개발/Git/06 log.md",
     "개발/Git/01 config.md",
-    "개발/Git/git flow/git flow(프로그램).md",
-    "2학년 겨울 방학.md",
-    "수학/THE BOOK/THE BOOK.md",
     "개발/자동매매/AutoFreq.md",
     "책/책.md",
     "책/Untitled.md",
@@ -230,7 +233,6 @@
     "개발/Python/01 변수.md",
     "개발/Python/00 Python.md",
     "개발/Python/04 조건문(if, else, elif).md",
-    "개발/Python/07 반복문(for).md",
     "개발/JavaScript/반복문(while).md ",
     "개발/JavaScript/조건문(switch).md ",
     "개발/JavaScript/조건문(if, else, else if).md ",
@@ -241,8 +243,6 @@
     "개발/JavaScript/class.md ",
     "개발/JavaScript/call, apply, bind.md ",
     "개발/JavaScript/async, await.md ",
-    "개발/Python/03 딕셔너리(Dictionary).md",
-    "개발/Python/06 반복문(while).md",
     "개발/JavaScript/img/Untitled.png",
     "개발/JavaScript/img/Untitled 9.png",
     "개발/JavaScript/img/Untitled 8.png",

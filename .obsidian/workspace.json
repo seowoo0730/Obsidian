@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수학/LaTex/LaTeX.md",
+                "file": "수학/LaTex/LaTeX 명령.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 200
   },
   "right": {
     "id": "f18bf3015157212c",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "수학/LaTex/LaTeX.md",
+                "file": "수학/LaTex/LaTeX 명령.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "수학/LaTex/LaTeX.md",
+                "file": "수학/LaTex/LaTeX 명령.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수학/LaTex/LaTeX.md"
+                "file": "수학/LaTex/LaTeX 명령.md"
               }
             }
           },
@@ -183,14 +183,6 @@
             }
           },
           {
-            "id": "72dd976454f33a2e",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
             "id": "3c308a6229f608a1",
             "type": "leaf",
             "state": {
@@ -203,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,9 +212,15 @@
   },
   "active": "fa1c4e174fbeea85",
   "lastOpenFiles": [
+    "수학/LaTex/예약 문자.md",
+    "수학/LaTex/LaTeX 명령.md",
+    "수학/LaTex/img/스크린샷 2024-01-05 오전 2.35.21.png",
+    "수학/LaTex/공백.md",
+    "수학/LaTex/LaTeX.md",
+    "수학/LaTex/img",
+    "수학/LaTex/img/스크린샷 2024-01-05 오전 2.12.26.png",
     "2학년 겨울 방학.md",
     "배우기.md",
-    "수학/LaTex/LaTeX.md",
     "수학/LaTex/LaTeX + Vim.md",
     "책/쉽게 읽는 페르마의 마지막 정리.md",
     "개발/문자 인코딩.md",
@@ -242,9 +241,6 @@
     "책/책.md",
     "책/Untitled.md",
     "Lg Ai Youth Camp.md",
-    "개발/Haskell/Haskell.md",
-    "개발/Python/12 모듈(Module).md",
-    "개발/Git/19 clone.md",
     "개발/JavaScript/반복문(while).md ",
     "개발/JavaScript/조건문(switch).md ",
     "개발/JavaScript/조건문(if, else, else if).md ",
@@ -254,7 +250,6 @@
     "개발/JavaScript/node.js.md ",
     "개발/JavaScript/class.md ",
     "개발/JavaScript/call, apply, bind.md ",
-    "개발/JavaScript/async, await.md ",
     "개발/JavaScript/img/Untitled.png",
     "개발/JavaScript/img/Untitled 9.png",
     "개발/JavaScript/img/Untitled 8.png",
@@ -263,8 +258,6 @@
     "개발/JavaScript/img/Untitled 5.png",
     "개발/JavaScript/img/Untitled 4.png",
     "개발/JavaScript/img/Untitled 3.png",
-    "개발/JavaScript/img/Untitled 3 2.png",
-    "개발/JavaScript/img/Untitled 2.png",
     "Untitled.canvas",
     "Brain/Untitled.canvas"
   ]

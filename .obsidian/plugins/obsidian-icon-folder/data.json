@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#9696ff",
     "recentlyUsedIcons": [
+      "LiFolder",
+      "TiDotsVertical",
       "IbTextAlignLeft",
       "LiPercent",
-      "RiCodeSSlashLine",
-      "TiSlash",
-      "RiSpace"
+      "RiCodeSSlashLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -120,5 +120,7 @@
   "수학/LaTex/예약 문자.md": "TiSlash",
   "수학/LaTex/LaTeX 명령.md": "RiCodeSSlashLine",
   "수학/LaTex/주석.md": "LiPercent",
-  "수학/LaTex/파일 구조.md": "IbTextAlignLeft"
+  "수학/LaTex/파일 구조.md": "IbTextAlignLeft",
+  "수학/LaTex/파일과 확장명.md": "TiDotsVertical",
+  "수학/LaTex/파일 나누기.md": "LiFolder"
 }

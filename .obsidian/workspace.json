@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수학/LaTex/파일 구조.md",
+                "file": "2학년 겨울 방학.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "수학/LaTex/파일 구조.md",
+                "file": "2학년 겨울 방학.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "수학/LaTex/파일 구조.md",
+                "file": "2학년 겨울 방학.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수학/LaTex/파일 구조.md"
+                "file": "2학년 겨울 방학.md"
               }
             }
           },
@@ -212,20 +212,29 @@
   },
   "active": "fa1c4e174fbeea85",
   "lastOpenFiles": [
-    "수학/LaTex/주석.md",
-    "수학/LaTex/LaTeX.md",
+    "수학/LaTex/img/스크린샷 2024-01-05 오전 4.04.56.png",
+    "수학/LaTex/img/스크린샷 2024-01-05 오전 4.00.32.png",
+    "2학년 겨울 방학.md",
     "수학/LaTex/파일 구조.md",
-    "수학/LaTex/공백.md",
-    "수학/LaTex/LaTeX 명령.md",
-    "수학/LaTex/예약 문자.md",
+    "수학/LaTex/파일 나누기.md",
+    "수학/LaTex/파일과 확장명.md",
+    "수학/LaTex/img/스크린샷 2024-01-05 오전 4.06.30.png",
+    "수학/LaTex/img/스크린샷 2024-01-05 오전 4.06.22.png",
+    "수학/LaTex/img/스크린샷 2024-01-05 오전 3.51.53.png",
     "수학/LaTex/LaTeX 기호.md",
+    "수학/LaTex/LaTeX 명령.md",
+    "Obsidian/Obsidian.md",
+    "수학/LaTex/LaTeX.md",
+    "수학/LaTex/주석.md",
+    "수학/THE BOOK/THE BOOK.md",
+    "수학/LaTex/img/스크린샷 2024-01-05 오전 3.43.44.png",
+    "수학/LaTex/공백.md",
+    "수학/LaTex/예약 문자.md",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 3.23.30.png",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 3.01.15.png",
-    "Obsidian/Obsidian.md",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 2.35.21.png",
     "수학/LaTex/img",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 2.12.26.png",
-    "2학년 겨울 방학.md",
     "배우기.md",
     "수학/LaTex/LaTeX + Vim.md",
     "책/쉽게 읽는 페르마의 마지막 정리.md",
@@ -235,14 +244,10 @@
     "개발/Github/0 Github.md",
     "개발/Git/00 Git.md",
     "Git.md",
-    "수학/THE BOOK/THE BOOK.md",
     "개발/Git/git flow/git flow(프로그램).md",
     "개발/Git/12 rebase.md",
     "개발/Git/07 revert.md",
     "개발/Git/03 add.md",
-    "개발/Git/05 commit.md",
-    "개발/Git/06 log.md",
-    "개발/Git/01 config.md",
     "개발/JavaScript/반복문(while).md ",
     "개발/JavaScript/조건문(switch).md ",
     "개발/JavaScript/조건문(if, else, else if).md ",
@@ -252,12 +257,6 @@
     "개발/JavaScript/node.js.md ",
     "개발/JavaScript/class.md ",
     "개발/JavaScript/call, apply, bind.md ",
-    "개발/JavaScript/img/Untitled.png",
-    "개발/JavaScript/img/Untitled 9.png",
-    "개발/JavaScript/img/Untitled 8.png",
-    "개발/JavaScript/img/Untitled 7.png",
-    "개발/JavaScript/img/Untitled 6.png",
-    "개발/JavaScript/img/Untitled 5.png",
     "Untitled.canvas",
     "Brain/Untitled.canvas"
   ]

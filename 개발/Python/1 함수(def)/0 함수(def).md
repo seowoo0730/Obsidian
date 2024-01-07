@@ -106,7 +106,7 @@ result3 = add3(result1, result2)
 print(result1, result2, result3)  # 5 7 12
 ```
 
-![[/Untitled.png|Untitled.png]]
+![[학교/img/Untitled.png|Untitled.png]]
 
 [[1 화살표 함수(arrow function)]]
 

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2학년 겨울 방학.md",
+                "file": "탐구 아이디어 노트.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2학년 겨울 방학.md",
+                "file": "탐구 아이디어 노트.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2학년 겨울 방학.md",
+                "file": "탐구 아이디어 노트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2학년 겨울 방학.md"
+                "file": "탐구 아이디어 노트.md"
               }
             }
           },
@@ -212,9 +212,27 @@
   },
   "active": "fa1c4e174fbeea85",
   "lastOpenFiles": [
+    "학교/자율동아리.md",
+    "학교/자소서.md",
+    "학교/이서우.md",
+    "학교/압도적 실력.md",
+    "학교/생기부.md",
+    "학교/기록.md",
+    "학교/로드맵 최종.md",
+    "탐구 아이디어 노트.md",
+    "학교/img",
+    "학교/보고서.md",
+    "2학년 겨울 방학.md",
+    "학교/img/Untitled 1.png",
+    "학교/img/Untitled.png",
+    "학교/img/Untitled.pdf",
+    "%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%89%E1%85%A5%E1%86%AF.rtf",
+    "이서우/자율동아리",
+    "이서우/기록",
+    "학교",
+    "Notion",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 4.04.56.png",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 4.00.32.png",
-    "2학년 겨울 방학.md",
     "수학/LaTex/파일 구조.md",
     "수학/LaTex/파일 나누기.md",
     "수학/LaTex/파일과 확장명.md",
@@ -232,31 +250,13 @@
     "수학/LaTex/예약 문자.md",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 3.23.30.png",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 3.01.15.png",
-    "수학/LaTex/img/스크린샷 2024-01-05 오전 2.35.21.png",
     "수학/LaTex/img",
-    "수학/LaTex/img/스크린샷 2024-01-05 오전 2.12.26.png",
     "배우기.md",
     "수학/LaTex/LaTeX + Vim.md",
     "책/쉽게 읽는 페르마의 마지막 정리.md",
     "개발/문자 인코딩.md",
-    "개발/유의적 버전(Semantic Versioning).md",
-    "개발/자동매매/freqtrade/고려사항.md",
-    "개발/Github/0 Github.md",
-    "개발/Git/00 Git.md",
-    "Git.md",
-    "개발/Git/git flow/git flow(프로그램).md",
-    "개발/Git/12 rebase.md",
-    "개발/Git/07 revert.md",
-    "개발/Git/03 add.md",
     "개발/JavaScript/반복문(while).md ",
     "개발/JavaScript/조건문(switch).md ",
-    "개발/JavaScript/조건문(if, else, else if).md ",
-    "개발/JavaScript/상속.md ",
-    "개발/JavaScript/객체(object).md ",
-    "개발/JavaScript/promise.md ",
-    "개발/JavaScript/node.js.md ",
-    "개발/JavaScript/class.md ",
-    "개발/JavaScript/call, apply, bind.md ",
     "Untitled.canvas",
     "Brain/Untitled.canvas"
   ]

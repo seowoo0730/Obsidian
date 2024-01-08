@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "배우기.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa1c4e174fbeea85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "키보드/무접점.md",
+                "file": "수학/LaTex/분철.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "키보드/무접점.md",
+                "file": "수학/LaTex/분철.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "키보드/무접점.md",
+                "file": "수학/LaTex/분철.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "키보드/무접점.md"
+                "file": "수학/LaTex/분철.md"
               }
             }
           },
@@ -210,14 +198,28 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fa1c4e174fbeea85",
+  "active": "afd6e8e326f578d7",
   "lastOpenFiles": [
-    "수학/LaTex/LaTeX.md",
-    "키보드/무접점.md",
-    "수학/LaTex/LaTeX 명령.md",
-    "탐구 아이디어 노트.md",
-    "학교/자율동아리.md",
+    "수학/LaTex/파일 나누기.md",
     "학교/자소서.md",
+    "학교/자율동아리.md",
+    "수학/LaTex/분철.md",
+    "스크린샷 2024-01-09 오전 1.18.34.png",
+    "수학/LaTex/img/스크린샷 2024-01-09 오전 1.19.09.png",
+    "수학/LaTex/LaTeX 명령.md",
+    "수학/LaTex/LaTeX 기호.md",
+    "수학/LaTex/LaTeX.md",
+    "수학/LaTex/파일과 확장명.md",
+    "수학/LaTex/파일 구조.md",
+    "수학/LaTex/주석.md",
+    "수학/LaTex/예약 문자.md",
+    "수학/LaTex/문단 정렬.md",
+    "수학/LaTex/공백.md",
+    "수학/LaTex/img/스크린샷 2024-01-09 오전 12.57.27.png",
+    "수학/LaTex/분철",
+    "배우기.md",
+    "키보드/무접점.md",
+    "탐구 아이디어 노트.md",
     "학교/이서우.md",
     "학교/압도적 실력.md",
     "학교/생기부.md",
@@ -236,28 +238,13 @@
     "Notion",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 4.04.56.png",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 4.00.32.png",
-    "수학/LaTex/파일 구조.md",
-    "수학/LaTex/파일 나누기.md",
-    "수학/LaTex/파일과 확장명.md",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 4.06.30.png",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 4.06.22.png",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 3.51.53.png",
-    "수학/LaTex/LaTeX 기호.md",
     "Obsidian/Obsidian.md",
-    "수학/LaTex/주석.md",
     "수학/THE BOOK/THE BOOK.md",
-    "수학/LaTex/img/스크린샷 2024-01-05 오전 3.43.44.png",
-    "수학/LaTex/공백.md",
-    "수학/LaTex/예약 문자.md",
-    "수학/LaTex/img/스크린샷 2024-01-05 오전 3.23.30.png",
-    "수학/LaTex/img/스크린샷 2024-01-05 오전 3.01.15.png",
     "수학/LaTex/img",
-    "배우기.md",
-    "수학/LaTex/LaTeX + Vim.md",
-    "책/쉽게 읽는 페르마의 마지막 정리.md",
-    "개발/문자 인코딩.md",
     "개발/JavaScript/반복문(while).md ",
-    "개발/JavaScript/조건문(switch).md ",
     "Untitled.canvas",
     "Brain/Untitled.canvas"
   ]

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "수학/LaTex/표재와 장절.md",
+                "file": "수학/LaTex/단어 사이의 공백.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "수학/LaTex/표재와 장절.md",
+                "file": "수학/LaTex/단어 사이의 공백.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "수학/LaTex/표재와 장절.md",
+                "file": "수학/LaTex/단어 사이의 공백.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "수학/LaTex/표재와 장절.md"
+                "file": "수학/LaTex/단어 사이의 공백.md"
               }
             }
           },
@@ -200,19 +200,19 @@
   },
   "active": "afd6e8e326f578d7",
   "lastOpenFiles": [
+    "수학/LaTex/분철.md",
+    "수학/LaTex/표재와 장절.md",
     "수학/LaTex/파일과 확장명.md",
     "수학/LaTex/파일 나누기.md",
     "수학/LaTex/파일 구조.md",
     "수학/LaTex/특수문자와 기호.md",
     "수학/LaTex/정리류.md",
     "수학/LaTex/예약 문자.md",
-    "수학/LaTex/분철.md",
     "수학/LaTex/단어 사이의 공백.md",
     "수학/LaTex/문단 정렬.md",
     "수학/LaTex/주석.md",
     "수학/LaTex/공백.md",
     "수학/LaTex/LaTeX.md",
-    "수학/LaTex/표재와 장절.md",
     "수학/LaTex/LaTeX 기호.md",
     "스크린샷 2024-01-09 오전 3.10.02.png",
     "스크린샷 2024-01-09 오전 2.45.37.png",

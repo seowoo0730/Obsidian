@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/Git/05 commit.md",
+                "file": "개발/Git/18 gitignore.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/Git/05 commit.md",
+                "file": "개발/Git/18 gitignore.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/Git/05 commit.md",
+                "file": "개발/Git/18 gitignore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/Git/05 commit.md"
+                "file": "개발/Git/18 gitignore.md"
               }
             }
           },
@@ -200,11 +200,11 @@
   },
   "active": "afd6e8e326f578d7",
   "lastOpenFiles": [
+    "개발/Git/05 commit.md",
     "개발/Git/04 status.md",
     "개발/Git/03 add.md",
     "개발/Git/02 init.md",
     "개발/Git/01 config.md",
-    "개발/Git/05 commit.md",
     "개발/Git/09 checkout (이동).md",
     "개발/Git/08 reset.md",
     "개발/Git/07 revert.md",

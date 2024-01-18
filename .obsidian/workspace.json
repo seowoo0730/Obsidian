@@ -35,11 +35,9 @@
             "id": "afd6e8e326f578d7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "개발/Git/07 revert.md",
-                "mode": "source",
-                "source": false
+                "file": "수학/LaTex/img/스크린샷 2024-01-09 오전 2.31.24.png"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/Git/07 revert.md",
+                "file": "수학/LaTex/img/스크린샷 2024-01-09 오전 2.31.24.png",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/Git/07 revert.md",
+                "file": "수학/LaTex/img/스크린샷 2024-01-09 오전 2.31.24.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/Git/07 revert.md"
+                "file": "수학/LaTex/img/스크린샷 2024-01-09 오전 2.31.24.png"
               }
             }
           },
@@ -197,8 +195,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "afd6e8e326f578d7",
+  "active": "40d8773fe00931f2",
   "lastOpenFiles": [
+    "수학/LaTex/img/스크린샷 2024-01-09 오전 2.41.47.png",
+    "수학/LaTex/img/스크린샷 2024-01-09 오전 1.42.25.png",
+    "수학/LaTex/img/스크린샷 2024-01-05 오전 2.12.26.png",
+    "개발/Git/07 revert.md",
     "개발/Git/18 gitignore.md",
     "개발/Git/05 commit.md",
     "개발/Git/04 status.md",
@@ -207,7 +209,6 @@
     "개발/Git/01 config.md",
     "개발/Git/09 checkout (이동).md",
     "개발/Git/08 reset.md",
-    "개발/Git/07 revert.md",
     "수학/LaTex/LaTeX.md",
     "수학/LaTex/표재와 장절.md",
     "수학/LaTex/파일과 확장명.md",
@@ -223,15 +224,12 @@
     "수학/LaTex/공백.md",
     "수학/LaTex/LaTeX 기호.md",
     "수학/LaTex/LaTeX 명령.md",
-    "스크린샷 2024-01-09 오전 3.10.02.png",
-    "스크린샷 2024-01-09 오전 2.45.37.png",
-    "스크린샷 2024-01-09 오전 2.42.07.png",
-    "스크린샷 2024-01-09 오전 2.41.47.png",
+    "수학/LaTex/img/스크린샷 2024-01-09 오전 3.10.02.png",
+    "수학/LaTex/img/스크린샷 2024-01-09 오전 2.45.37.png",
+    "수학/LaTex/img/스크린샷 2024-01-09 오전 2.42.07.png",
     "수학/LaTex/따옴표.md",
-    "스크린샷 2024-01-09 오전 2.31.24.png",
-    "스크린샷 2024-01-09 오전 1.42.25.png",
-    "수학/LaTex/2.4 특수문자와 기호.md",
-    "스크린샷 2024-01-09 오전 1.38.34.png",
+    "수학/LaTex/img/스크린샷 2024-01-09 오전 2.31.24.png",
+    "수학/LaTex/img/스크린샷 2024-01-09 오전 1.38.34.png",
     "스크린샷 2024-01-09 오전 1.18.34.png",
     "수학/LaTex/img/스크린샷 2024-01-09 오전 1.19.09.png",
     "수학/LaTex/img/스크린샷 2024-01-09 오전 12.57.27.png",

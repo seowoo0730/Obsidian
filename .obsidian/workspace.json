@@ -59,14 +59,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "모니터/주연테크 V27UI-60M.md",
+                "file": "데스크 셋업/모니터/주연테크 V27UI-60M.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ea35f6f980f0bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데스크 셋업/애플 셋업.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "모니터/주연테크 V27UI-60M.md",
+                "file": "데스크 셋업/애플 셋업.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "모니터/주연테크 V27UI-60M.md",
+                "file": "데스크 셋업/애플 셋업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "모니터/주연테크 V27UI-60M.md"
+                "file": "데스크 셋업/애플 셋업.md"
               }
             }
           },
@@ -219,14 +231,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "20c9b0bd40397c43",
+  "active": "40d8773fe00931f2",
   "lastOpenFiles": [
-    "모니터/주연테크 V28UE.md",
-    "모니터/주연테크 V27UI-60M.md",
+    "데스크 셋업/모니터/주연테크 V27UI-60M.md",
+    "데스크 셋업/애플 셋업.md",
+    "데스크 셋업",
+    "데스크 셋업/모니터/주연테크 V28UE.md",
     "책/쉽게 읽는 페르마의 마지막 정리.md",
-    "Untitled.md",
     "책/책.md",
-    "모니터",
+    "데스크 셋업/모니터",
     "개발/Python/11 class(클래스).md",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 4.06.22.png",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 3.43.44.png",
@@ -257,7 +270,6 @@
     "수학/LaTex/특수문자와 기호.md",
     "수학/LaTex/주석.md",
     "수학/LaTex/정리류.md",
-    "수학/LaTex/예약 문자.md",
     "수학/LaTex/분철",
     "학교/img",
     "학교/img/Untitled.pdf",
@@ -266,7 +278,6 @@
     "이서우/기록",
     "학교",
     "Notion",
-    "수학/LaTex/img",
     "Untitled.canvas",
     "Brain/Untitled.canvas"
   ]

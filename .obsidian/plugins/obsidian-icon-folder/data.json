@@ -41,8 +41,6 @@
     "iconName": null,
     "inheritanceIcon": "RiComputerLine"
   },
-  "키보드": "TiKeyboard",
-  "키보드/키캡.md": "RiKeyboardLine",
   "Unix": {
     "iconName": "LiDollarSign",
     "inheritanceIcon": "LiDollarSign"
@@ -126,5 +124,7 @@
   "수학/LaTex/단어 사이의 공백.md": "RiSpace",
   "수학/LaTex/문단 정렬.md": "RiAlignCenter",
   "수학/LaTex/분철.md": "TiLineDashed",
-  "수학/LaTex/표재와 장절.md": "IbDocument"
+  "수학/LaTex/표재와 장절.md": "IbDocument",
+  "데스크 셋업/키보드": "TiKeyboard",
+  "데스크 셋업/키보드/키캡.md": "RiKeyboardLine"
 }

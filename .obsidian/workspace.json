@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2학년 겨울 방학.md",
+                "file": "데스크 셋업/모니터/주연테크 V28UE.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2학년 겨울 방학.md",
+                "file": "데스크 셋업/모니터/주연테크 V28UE.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2학년 겨울 방학.md",
+                "file": "데스크 셋업/모니터/주연테크 V28UE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2학년 겨울 방학.md"
+                "file": "데스크 셋업/모니터/주연테크 V28UE.md"
               }
             }
           },
@@ -233,12 +233,14 @@
   },
   "active": "0ea35f6f980f0bd7",
   "lastOpenFiles": [
-    "데스크 셋업/애플 셋업.md",
     "데스크 셋업/모니터/주연테크 V27UI-60M.md",
-    "데스크 셋업",
+    "데스크 셋업/모니터/모니터.md",
+    "책/책.md",
     "데스크 셋업/모니터/주연테크 V28UE.md",
     "책/쉽게 읽는 페르마의 마지막 정리.md",
-    "책/책.md",
+    "2학년 겨울 방학.md",
+    "데스크 셋업/애플 셋업.md",
+    "데스크 셋업",
     "데스크 셋업/모니터",
     "개발/Python/11 class(클래스).md",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 4.06.22.png",
@@ -269,7 +271,6 @@
     "수학/LaTex/파일 구조.md",
     "수학/LaTex/특수문자와 기호.md",
     "수학/LaTex/주석.md",
-    "수학/LaTex/정리류.md",
     "수학/LaTex/분철",
     "학교/img",
     "학교/img/Untitled.pdf",

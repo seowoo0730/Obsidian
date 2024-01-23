@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데스크 셋업/모니터암/모니터암.md",
+                "file": "데스크 셋업/모니터/모니터.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데스크 셋업/모니터암/모니터암.md",
+                "file": "데스크 셋업/모니터/모니터.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데스크 셋업/모니터암/모니터암.md",
+                "file": "데스크 셋업/모니터/모니터.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데스크 셋업/모니터암/모니터암.md"
+                "file": "데스크 셋업/모니터/모니터.md"
               }
             }
           },
@@ -233,10 +233,10 @@
   },
   "active": "e5c225131a85ee92",
   "lastOpenFiles": [
+    "데스크 셋업/모니터암/모니터암.md",
     "데스크 셋업/모니터/모니터.md",
     "데스크 셋업/모니터/삼성전자 SMART M7 M70B S32BM702.md",
     "데스크 셋업/모니터/LG전자 울트라HD 27UP550N.md",
-    "데스크 셋업/모니터암/모니터암.md",
     "데스크 셋업/애플 셋업.md",
     "데스크 셋업/키보드/고려사항.md",
     "데스크 셋업/모니터암",

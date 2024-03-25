@@ -83,14 +83,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데스크 셋업/모니터암/모니터암.md",
+                "file": "개발/자동매매/freqtrade/명령어 저장.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7d628aa44e33aeb7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -156,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데스크 셋업/모니터암/모니터암.md",
+                "file": "개발/자동매매/freqtrade/명령어 저장.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -173,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데스크 셋업/모니터암/모니터암.md",
+                "file": "개발/자동매매/freqtrade/명령어 저장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데스크 셋업/모니터암/모니터암.md"
+                "file": "개발/자동매매/freqtrade/명령어 저장.md"
               }
             }
           },
@@ -243,12 +253,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "783e853fe1b5b3a9",
+  "active": "7d628aa44e33aeb7",
   "lastOpenFiles": [
+    "개발/자동매매/freqtrade/고려사항.md",
+    "개발/자동매매/freqtrade/명령어 저장.md",
+    "개발/자동매매/freqtrade/freqtrade.md",
+    "개발/SSH.md",
+    "개발/자동매매/AutoFreq.md",
+    "2학년 겨울 방학.md",
+    "배우기.md",
+    "데스크 셋업/모니터암/모니터암.md",
     "데스크 셋업/모니터/모니터.md",
     "데스크 셋업/모니터/DELL P2723QE.md",
     "데스크 셋업/모니터/삼성전자 SMART M7 M70B S32BM702.md",
-    "데스크 셋업/모니터암/모니터암.md",
     "데스크 셋업/모니터/LG전자 울트라HD 27UP550N.md",
     "데스크 셋업/애플 셋업.md",
     "데스크 셋업/키보드/고려사항.md",
@@ -266,7 +283,6 @@
     "Untitled.canvas",
     "책/책.md",
     "책/쉽게 읽는 페르마의 마지막 정리.md",
-    "2학년 겨울 방학.md",
     "데스크 셋업",
     "데스크 셋업/모니터",
     "개발/Python/11 class(클래스).md",
@@ -280,12 +296,6 @@
     "수학/LaTex/img/스크린샷 2024-01-05 오전 4.04.56.png",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 3.51.53.png",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 2.35.21.png",
-    "탐구 아이디어 노트.md",
-    "h.md",
-    "개발/Git/07 revert.md",
-    "개발/Git/18 gitignore.md",
-    "개발/Git/05 commit.md",
-    "개발/Git/04 status.md",
     "수학/LaTex/분철",
     "학교/img",
     "학교/img/Untitled.pdf",

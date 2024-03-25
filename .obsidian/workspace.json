@@ -93,14 +93,28 @@
             "id": "7d628aa44e33aeb7",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.11"
+                "file": "개발/Git/10 branch (브랜치).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90ace970624d7ef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20205 장영실.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/자동매매/freqtrade/명령어 저장.md",
+                "file": "20205 장영실.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -183,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/자동매매/freqtrade/명령어 저장.md",
+                "file": "20205 장영실.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -206,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/자동매매/freqtrade/명령어 저장.md"
+                "file": "20205 장영실.md"
               }
             }
           },
@@ -253,8 +267,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7d628aa44e33aeb7",
+  "active": "90ace970624d7ef7",
   "lastOpenFiles": [
+    "개발/Git/10 branch (브랜치).md",
+    "20205 장영실.md",
+    "개발/Git/23 stash.md",
+    "개발/Git/07 revert.md",
+    "개발/Git/08 reset.md",
     "개발/자동매매/freqtrade/고려사항.md",
     "개발/자동매매/freqtrade/명령어 저장.md",
     "개발/자동매매/freqtrade/freqtrade.md",
@@ -277,15 +296,10 @@
     "데스크 셋업/모니터/DELL UltraSharp U2723QE.md",
     "데스크 셋업/모니터/LG전자 울트라HD 32UP830.md",
     "데스크 셋업/모니터/삼성전자 뷰피니티 S8 S32B800.md",
-    "데스크 셋업/모니터/삼성전자 뷰피니티 S8 S27B800.md",
-    "데스크 셋업/모니터/LG전자 울트라HD 32UP550N.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "책/책.md",
-    "책/쉽게 읽는 페르마의 마지막 정리.md",
     "데스크 셋업",
     "데스크 셋업/모니터",
-    "개발/Python/11 class(클래스).md",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 4.06.22.png",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 3.43.44.png",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 3.23.30.png",

@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "e7940930ef0b969a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "2398722ff934eb2a",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +195,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "90ace970624d7ef7",
+  "active": "e7940930ef0b969a",
   "lastOpenFiles": [
-    "데스크 셋업/모니터암/모니터암.md",
-    "데스크 셋업/키보드/가성비 알루.md",
     "데스크 셋업/키보드/고려사항.md",
-    "데스크 셋업/키보드/키캡.md",
     "데스크 셋업/키보드/무접점.md",
+    "데스크 셋업/애플 셋업.md",
+    "데스크 셋업/키보드/키캡.md",
+    "데스크 셋업/키보드/가성비 알루.md",
+    "데스크 셋업/모니터암/모니터암.md",
     "20205 장영실.md",
     "개발/Git/10 branch (브랜치).md",
     "개발/자동매매/freqtrade/명령어 저장.md",
@@ -212,7 +224,6 @@
     "2학년 겨울 방학.md",
     "배우기.md",
     "데스크 셋업/모니터/DELL P2723QE.md",
-    "데스크 셋업/모니터/삼성전자 SMART M7 M70B S32BM702.md",
     "데스크 셋업/모니터암",
     "Untitled 1.canvas",
     "Untitled.canvas",

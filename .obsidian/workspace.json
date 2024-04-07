@@ -23,9 +23,11 @@
             "id": "e7940930ef0b969a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "데스크 셋업/키보드/가성비 알루.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -199,9 +201,9 @@
   "lastOpenFiles": [
     "데스크 셋업/키보드/고려사항.md",
     "데스크 셋업/키보드/무접점.md",
-    "데스크 셋업/애플 셋업.md",
     "데스크 셋업/키보드/키캡.md",
     "데스크 셋업/키보드/가성비 알루.md",
+    "데스크 셋업/애플 셋업.md",
     "데스크 셋업/모니터암/모니터암.md",
     "20205 장영실.md",
     "개발/Git/10 branch (브랜치).md",

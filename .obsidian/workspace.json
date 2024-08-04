@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학교/이서우.md",
+                "file": "개발/자동매매/freqtrade/freqtrade.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학교/이서우.md",
+                "file": "개발/자동매매/freqtrade/freqtrade.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학교/이서우.md",
+                "file": "개발/자동매매/freqtrade/freqtrade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학교/이서우.md"
+                "file": "개발/자동매매/freqtrade/freqtrade.md"
               }
             }
           },
@@ -199,13 +199,14 @@
   },
   "active": "e7940930ef0b969a",
   "lastOpenFiles": [
-    "학교/기록.md",
+    "개발/자동매매/freqtrade/고려사항.md",
+    "학교/보고서.md",
     "학교/이서우.md",
+    "학교/기록.md",
     "학교/자소서.md",
     "학교/압도적 실력.md",
     "학교/자율동아리.md",
     "학교/생기부.md",
-    "학교/보고서.md",
     "학교/img/Untitled 1.png",
     "학교/img/Untitled.png",
     "학교/img/Untitled.pdf",
@@ -228,7 +229,6 @@
     "책/쉽게 읽는 페르마의 마지막 정리.md",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 3.43.44.png",
     "개발/Python/12 모듈(Module).md",
-    "개발/Python/11 class(클래스).md",
     "데스크 셋업/모니터암",
     "Untitled 1.canvas",
     "Untitled.canvas",

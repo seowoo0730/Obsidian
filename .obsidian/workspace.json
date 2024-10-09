@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "1da129f4b07de454",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
+          },
+          {
             "id": "2398722ff934eb2a",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +207,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e7940930ef0b969a",
+  "active": "1da129f4b07de454",
   "lastOpenFiles": [
     "개발/자동매매/freqtrade/고려사항.md",
     "학교/보고서.md",

@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/자동매매/freqtrade/freqtrade.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1da129f4b07de454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "학교/중학교 시험/3-2 정기고사/3-2 정기고사.md",
+                "file": "개발/자동매매/AutoFreq.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학교/중학교 시험/3-2 정기고사/3-2 정기고사.md",
+                "file": "개발/자동매매/AutoFreq.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학교/중학교 시험/3-2 정기고사/3-2 정기고사.md",
+                "file": "개발/자동매매/AutoFreq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학교/중학교 시험/3-2 정기고사/3-2 정기고사.md"
+                "file": "개발/자동매매/AutoFreq.md"
               }
             }
           },
@@ -209,9 +197,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1da129f4b07de454",
+  "active": "e7940930ef0b969a",
   "lastOpenFiles": [
+    "개발/자동매매/freqtrade/freqtrade.md",
+    "개발/자동매매/freqtrade/명령어 저장.md",
+    "개발/자동매매/freqtrade/고려사항.md",
+    "개발/자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
     "학교/중학교 시험/3-2 정기고사/시험 끝나고 할 것.md",
+    "Lg Ai Youth Camp.md",
+    "탐구 아이디어 노트.md",
+    "2학년 겨울 방학.md",
+    "개발/자동매매/AutoFreq.md",
+    "배우기.md",
+    "학교/img/Untitled.png",
     "학교/중학교 시험/3-2 정기고사/3-2 정기고사.md",
     "학교/중학교 시험/3-2 정기고사/시험 끝나고 할것.md",
     "학교/중학교 시험/3-2 정기고사.md",
@@ -225,7 +223,6 @@
     "데스크 셋업/키보드/무접점.md",
     "데스크 셋업/키보드/가성비 알루.md",
     "데스크 셋업/모니터암/모니터암.md",
-    "개발/자동매매/freqtrade/고려사항.md",
     "학교/보고서.md",
     "학교/이서우.md",
     "학교/기록.md",
@@ -234,17 +231,8 @@
     "학교/자율동아리.md",
     "학교/생기부.md",
     "학교/img/Untitled 1.png",
-    "학교/img/Untitled.png",
     "학교/img/Untitled.pdf",
-    "Lg Ai Youth Camp.md",
     "Untitled.md",
-    "2학년 겨울 방학.md",
-    "데스크 셋업/키보드/고려사항.md",
-    "개발/마크다운.md",
-    "Obsidian/Obsidian.md",
-    "Obsidian/링크 테스트.md",
-    "데스크 셋업/애플 셋업.md",
-    "20205 장영실.md",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 3.43.44.png",
     "데스크 셋업/모니터암",
     "Untitled 1.canvas",

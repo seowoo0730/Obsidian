@@ -77,7 +77,6 @@
   "개발/자동매매/freqtrade/Freqtrade 기록": "LiDatabase",
   "개발/자동매매/freqtrade/고려사항.md": "TiNotes",
   "개발/자동매매/freqtrade/Freqtrade 기록/거래량 상위.md": "IbChartBar",
-  "개발/자동매매/주식으로 바꾸기": "LiLineChart",
   "수학/THE BOOK": "RiBookOpenLine",
   "수학/THE BOOK/THE BOOK.md": {
     "iconName": "LiBook",

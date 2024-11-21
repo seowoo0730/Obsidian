@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개발/자동매매/AutoFreq.md",
+                "file": "개발/자동매매/freqtrade/명령어 저장.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개발/자동매매/AutoFreq.md",
+                "file": "개발/자동매매/freqtrade/명령어 저장.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개발/자동매매/AutoFreq.md",
+                "file": "개발/자동매매/freqtrade/명령어 저장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개발/자동매매/AutoFreq.md"
+                "file": "개발/자동매매/freqtrade/명령어 저장.md"
               }
             }
           },
@@ -199,15 +199,16 @@
   },
   "active": "e7940930ef0b969a",
   "lastOpenFiles": [
-    "개발/자동매매/freqtrade/freqtrade.md",
+    "개발/SSH.md",
     "개발/자동매매/freqtrade/명령어 저장.md",
     "개발/자동매매/freqtrade/고려사항.md",
     "개발/자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
+    "개발/자동매매/AutoFreq.md",
+    "개발/자동매매/freqtrade/freqtrade.md",
     "학교/중학교 시험/3-2 정기고사/시험 끝나고 할 것.md",
     "Lg Ai Youth Camp.md",
     "탐구 아이디어 노트.md",
     "2학년 겨울 방학.md",
-    "개발/자동매매/AutoFreq.md",
     "배우기.md",
     "학교/img/Untitled.png",
     "학교/중학교 시험/3-2 정기고사/3-2 정기고사.md",
@@ -232,7 +233,6 @@
     "학교/생기부.md",
     "학교/img/Untitled 1.png",
     "학교/img/Untitled.pdf",
-    "Untitled.md",
     "수학/LaTex/img/스크린샷 2024-01-05 오전 3.43.44.png",
     "데스크 셋업/모니터암",
     "Untitled 1.canvas",

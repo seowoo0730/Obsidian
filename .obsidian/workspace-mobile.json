@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "학교/기록.md",
+            "file": "탐구 아이디어 노트.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,

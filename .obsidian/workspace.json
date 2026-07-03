@@ -81,12 +81,14 @@
             "id": "67e661c3ae8bec0b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "개발/자동매매/freqtrade/명령어 저장.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.12.7"
+              "icon": "lucide-file",
+              "title": "명령어 저장"
             }
           },
           {
@@ -118,19 +120,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "40d8773fe00931f2",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
-            }
-          },
-          {
             "id": "a2deceec3c9f9540",
             "type": "leaf",
             "state": {
@@ -144,7 +133,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "검색"
             }
           },
           {
@@ -155,6 +144,19 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2f8ebe565953e0cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           }
         ]
@@ -279,10 +281,19 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "67e661c3ae8bec0b",
+  "active": "a2deceec3c9f9540",
   "lastOpenFiles": [
-    "학교/이서우.md",
+    "개발/자동매매/AutoFreq.md",
+    "개발/자동매매/freqtrade/freqtrade.md",
+    "개발/자동매매/freqtrade/명령어 저장.md",
+    "개발/자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
+    "개발/SSH.md",
+    "학교/중학교 시험/3-2 정기고사/3-2 정기고사.md",
+    "개발/Git/13 remote (저장소).md",
+    "개발/Git/06 log.md",
+    "개발/Git/01 config.md",
     "개발/API/API.md",
+    "학교/이서우.md",
     "개발/디자인 패턴/디자인 패턴.md",
     "개발/Git/24 tag.md",
     "개발/Git/09 checkout (이동).md",
@@ -295,19 +306,10 @@
     "학교/보고서.md",
     "학교/기록.md",
     "개발/문자 인코딩.md",
-    "개발/SSH.md",
-    "개발/자동매매/freqtrade/명령어 저장.md",
     "개발/자동매매/freqtrade/고려사항.md",
-    "개발/자동매매/freqtrade/Freqtrade 기록/거래량 상위.md",
-    "개발/자동매매/AutoFreq.md",
-    "개발/자동매매/freqtrade/freqtrade.md",
     "학교/중학교 시험/3-2 정기고사/시험 끝나고 할 것.md",
     "Lg Ai Youth Camp.md",
-    "2학년 겨울 방학.md",
-    "배우기.md",
     "학교/img/Untitled.png",
-    "학교/중학교 시험/3-2 정기고사/3-2 정기고사.md",
-    "학교/중학교 시험/3-2 정기고사/시험 끝나고 할것.md",
     "학교/중학교 시험/3-2 정기고사",
     "학교/중학교 시험/a",
     "Untitled.canvas",
